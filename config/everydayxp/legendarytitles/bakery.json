@@ -1,0 +1,167 @@
+{
+  "enabled": true,
+  "mod_name": "[Let\u0027s Do] Bakery",
+  "mod_id": "bakery",
+  "achievements": {
+    "main/place_baker_station": {
+      "display_name": "¡Vamos a Hacer Pasteles!",
+      "original_name": "¡Vamos a Hacer Pasteles!",
+      "enabled": true,
+      "icon": "bakery:baker_station",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_all_cakes": {
+      "display_name": "Maestro de Tartas",
+      "original_name": "Maestro de Tartas",
+      "enabled": true,
+      "icon": "bakery:chocolate_gateau",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_sign": {
+      "display_name": "¡Adelante, entra!",
+      "original_name": "¡Adelante, entra!",
+      "enabled": true,
+      "icon": "bakery:street_sign",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_all_caked_goods": {
+      "display_name": "Maestro de Cupcakes",
+      "original_name": "Maestro de Cupcakes",
+      "enabled": true,
+      "icon": "bakery:apple_cupcake",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_bread_crate": {
+      "display_name": "Fiesta de Pan",
+      "original_name": "Fiesta de Pan",
+      "enabled": true,
+      "icon": "bakery:bread_crate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cut_strawberry_cake": {
+      "display_name": "¡Tarta para todos!",
+      "original_name": "¡Tarta para todos!",
+      "enabled": true,
+      "icon": "bakery:strawberry_cake",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_cooking_pot": {
+      "display_name": "Pequeñas Delicias: Creando una Olla de Cocina Pequeña",
+      "original_name": "Pequeñas Delicias: Creando una Olla de Cocina Pequeña",
+      "enabled": true,
+      "icon": "bakery:small_cooking_pot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_misslilitu_biscuit": {
+      "display_name": "She clearly doesn\u0027t look like that!",
+      "original_name": "She clearly doesn\u0027t look like that!",
+      "enabled": true,
+      "icon": "bakery:misslilitu_biscuit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/eat_sandwich": {
+      "display_name": "Merienda de Sandwich",
+      "original_name": "Merienda de Sandwich",
+      "enabled": true,
+      "icon": "bakery:sandwich",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_yeast": {
+      "display_name": "Levadura de tus preocupaciones, no te preocupes, ¡sé feliz!",
+      "original_name": "Levadura de tus preocupaciones, no te preocupes, ¡sé feliz!",
+      "enabled": true,
+      "icon": "farm_and_charm:yeast",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/eat_bread": {
+      "display_name": "Sumérgete en Delicias Amasadas",
+      "original_name": "Sumérgete en Delicias Amasadas",
+      "enabled": true,
+      "icon": "bakery:bread",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/eat_pudding": {
+      "display_name": "Ewww, baba",
+      "original_name": "Ewww, baba",
+      "enabled": true,
+      "icon": "bakery:pudding_slice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_all_baked_goods": {
+      "display_name": "Hornea \u0027Em Todos: ¡Recoge Cada Golosina!",
+      "original_name": "Hornea \u0027Em Todos: ¡Recoge Cada Golosina!",
+      "enabled": true,
+      "icon": "bakery:crusty_bread",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_everything": {
+      "display_name": "Qué Viaje tan Largo y Extraño ha sido",
+      "original_name": "Qué Viaje tan Largo y Extraño ha sido",
+      "enabled": true,
+      "icon": "bakery:bundt_cake",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_all_jams": {
+      "display_name": "Tiempo de Mermeladas",
+      "original_name": "Tiempo de Mermeladas",
+      "enabled": true,
+      "icon": "bakery:jar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/use_bread_on_wall_display": {
+      "display_name": "El pan más vendido: ¡Ese!",
+      "original_name": "El pan más vendido: ¡Ese!",
+      "enabled": true,
+      "icon": "bakery:wall_display",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

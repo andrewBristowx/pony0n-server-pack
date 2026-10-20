@@ -1,0 +1,207 @@
+{
+  "enabled": true,
+  "mod_name": "Spawn",
+  "mod_id": "spawn",
+  "achievements": {
+    "husbandry/modify_fish": {
+      "display_name": "Recoloreado",
+      "original_name": "Recoloreado",
+      "enabled": true,
+      "icon": "spawn:seahorse_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/baby_mob_bucket": {
+      "display_name": "Bebé a Bordo",
+      "original_name": "Bebé a Bordo",
+      "enabled": true,
+      "icon": "spawn:tuna_egg_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/catch_with_net": {
+      "display_name": "Pesca del Día",
+      "original_name": "Pesca del Día",
+      "enabled": true,
+      "icon": "spawn:casting_net",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/hatch_ant": {
+      "display_name": "La Vida de Una Hormiga",
+      "original_name": "La Vida de Una Hormiga",
+      "enabled": true,
+      "icon": "spawn:ant_pupa",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/obtain_ant_pupa": {
+      "display_name": "¡Vamos, Reinota!",
+      "original_name": "¡Vamos, Reinota!",
+      "enabled": true,
+      "icon": "spawn:ant_pupa",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/catch_octopus_in_nautilus_shell": {
+      "display_name": "De Vuelta a la Concha",
+      "original_name": "De Vuelta a la Concha",
+      "enabled": true,
+      "icon": "spawn:captured_octopus",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/obtain_ant_farm": {
+      "display_name": "Hogar Permanente",
+      "original_name": "Hogar Permanente",
+      "enabled": true,
+      "icon": "spawn:ant_farm",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/open_hamster_inventory": {
+      "display_name": "Dí Aaaaaa",
+      "original_name": "Dí Aaaaaa",
+      "enabled": true,
+      "icon": "spawn:sunflower_seeds",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/fishy_feeling": {
+      "display_name": "Sensasión Pescada",
+      "original_name": "Sensasión Pescada",
+      "enabled": true,
+      "icon": "spawn:music_disc_jammed",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/got_stuck_in_mucus": {
+      "display_name": "Leeeeeeeeeeeento",
+      "original_name": "Leeeeeeeeeeeento",
+      "enabled": true,
+      "icon": "spawn:mucus_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/breed_sunfish": {
+      "display_name": "¡Baby Boom!",
+      "original_name": "¡Baby Boom!",
+      "enabled": true,
+      "icon": "spawn:baby_sunfish_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/obtain_snail_shell": {
+      "display_name": "Desalojo Exprés!",
+      "original_name": "Desalojo Exprés!",
+      "enabled": true,
+      "icon": "spawn:snail_shell",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/obtain_mucus": {
+      "display_name": "Babeado",
+      "original_name": "Babeado",
+      "enabled": true,
+      "icon": "spawn:mucus",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/catch_16_mobs_with_net": {
+      "display_name": "Pesca de la Semana",
+      "original_name": "Pesca de la Semana",
+      "enabled": true,
+      "icon": "spawn:casting_net",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/interact_with_angler_fish": {
+      "display_name": "Nadaremos, Nadaremos",
+      "original_name": "Nadaremos, Nadaremos",
+      "enabled": true,
+      "icon": "spawn:angler_fish_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_cold_island": {
+      "display_name": "¿Qué Ta Chendo? Ta Chendo Frío",
+      "original_name": "¿Qué Ta Chendo? Ta Chendo Frío",
+      "enabled": true,
+      "icon": "spawn:reefstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "husbandry/went_through_ghostly_mucus": {
+      "display_name": "Rpido",
+      "original_name": "Rpido",
+      "enabled": true,
+      "icon": "spawn:ghostly_mucus_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/discover_booby": {
+      "display_name": "Un Pájaro Muy Bobo",
+      "original_name": "Un Pájaro Muy Bobo",
+      "enabled": true,
+      "icon": "spawn:booby_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/seal_clap": {
+      "display_name": "Dos Aplausos",
+      "original_name": "Dos Aplausos",
+      "enabled": true,
+      "icon": "spawn:herring",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/play_jukebox_in_seagrass_meadows": {
+      "display_name": "Bajo el Mar",
+      "original_name": "Bajo el Mar",
+      "enabled": true,
+      "icon": "minecraft:jukebox",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

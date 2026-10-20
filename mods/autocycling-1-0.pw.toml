@@ -1,0 +1,13 @@
+name = "autocycling-1.0.jar"
+filename = "autocycling-1.0.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8472/555/autocycling-1.0.jar"
+hash-format = "sha256"
+hash = "74d4c2120fd6131c4a7270adf0f5942fa6bf63d12ba13e12a252513c032e4fda"
+
+[update]
+[update.curseforge]
+file-id = 8472555
+project-id = 1534268

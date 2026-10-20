@@ -1,0 +1,77 @@
+{
+  "enabled": true,
+  "mod_name": "More Delight",
+  "mod_id": "moredelight",
+  "achievements": {
+    "main/get_toast_with_egg": {
+      "display_name": "Desayuno Clásico",
+      "original_name": "Desayuno Clásico",
+      "enabled": true,
+      "icon": "moredelight:toast_with_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_omelette": {
+      "display_name": "Mañana Dorada",
+      "original_name": "Mañana Dorada",
+      "enabled": true,
+      "icon": "moredelight:omelette",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_egg_with_bacon_sandwich": {
+      "display_name": "Desayuno de Campeones",
+      "original_name": "Desayuno de Campeones",
+      "enabled": true,
+      "icon": "moredelight:egg_with_bacon_sandwich",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_creamy_pasta_with_ham": {
+      "display_name": "Jamón Cremoso",
+      "original_name": "Jamón Cremoso",
+      "enabled": true,
+      "icon": "moredelight:creamy_pasta_with_ham",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_mashed_potatoes": {
+      "display_name": "Poder de la Papa",
+      "original_name": "Poder de la Papa",
+      "enabled": true,
+      "icon": "moredelight:mashed_potatoes",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_chicken_sandwich_with_egg_and_tomato": {
+      "display_name": "La Mordida Definitiva",
+      "original_name": "La Mordida Definitiva",
+      "enabled": true,
+      "icon": "moredelight:chicken_sandwich_with_egg_and_tomato",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_diced_potatoes_with": {
+      "display_name": "Maestro de las Papas",
+      "original_name": "Maestro de las Papas",
+      "enabled": true,
+      "icon": "moredelight:diced_potatoes_with_chicken_cuts",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "XP: Attribute Core"
+filename = "attributecore-neo-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7tCK5Wtn/versions/iZZVGOiT/attributecore-neo-1.21.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "c616486ad088437c21eac0542b780594aaa72ccb2b14cc09b53d9446661a0cd9ae8fad6f843276d01c380526009b596c6979382cfd6c6a91c6ba55ef0d0419f5"
+
+[update]
+[update.modrinth]
+mod-id = "7tCK5Wtn"
+version = "iZZVGOiT"

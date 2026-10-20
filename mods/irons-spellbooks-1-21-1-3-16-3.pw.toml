@@ -1,0 +1,13 @@
+name = "irons_spellbooks-1.21.1-3.16.3.jar"
+filename = "irons_spellbooks-1.21.1-3.16.3.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8680/204/irons_spellbooks-1.21.1-3.16.3.jar"
+hash-format = "sha256"
+hash = "13d644474ddba4f8478b4ce68294687fd509c994b3f344a224142b102dbe6f73"
+
+[update]
+[update.curseforge]
+file-id = 8680204
+project-id = 855414

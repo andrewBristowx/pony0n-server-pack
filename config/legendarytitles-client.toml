@@ -1,0 +1,9 @@
+[display]
+	#Show your own title rendered above your head
+	showOwnTitle = false
+	#Show other players' titles rendered above their heads
+	showOtherTitles = true
+	#Allow other players to see your title
+	showMyTitleToOthers = true
+	#Enable debug logs (development use only - causes lag)
+	enableDebugLogs = false

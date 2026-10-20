@@ -1,0 +1,8 @@
+localmods/
+server-setup/
+.packwizignore
+*.md
+.git/
+.gitattributes
+.gitignore
+tools/

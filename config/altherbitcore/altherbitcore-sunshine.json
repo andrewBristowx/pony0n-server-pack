@@ -1,0 +1,19 @@
+{
+  "Thresholds": {
+    "sun_deaths": 100,
+    "sun_kills": 1000,
+    "sun_coins": 10000,
+    "sun_gacha50": 50,
+    "sun_emeralds": 1000,
+    "sun_walk": 100000
+  },
+  "MegajornUuid": "524a7d08-aace-43fa-865d-dd5f075757c3",
+  "AetherDimensionId": "",
+  "PlushItems": [
+    "altherbitcore:plush_placeholder_1",
+    "altherbitcore:plush_placeholder_2",
+    "altherbitcore:plush_placeholder_3"
+  ],
+  "HeadProfiles": [],
+  "Blacklist": []
+}

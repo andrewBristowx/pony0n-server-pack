@@ -1,0 +1,107 @@
+{
+  "enabled": true,
+  "mod_name": "Farmer\u0027s Delight",
+  "mod_id": "farmersdelight",
+  "achievements": {
+    "main/get_rich_soil": {
+      "display_name": "Alimentos para plantas",
+      "original_name": "Alimentos para plantas",
+      "enabled": true,
+      "icon": "farmersdelight:rich_soil",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/plant_all_crops": {
+      "display_name": "Rotación de cultivos",
+      "original_name": "Rotación de cultivos",
+      "enabled": true,
+      "icon": "farmersdelight:cabbage",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_cooking_pot": {
+      "display_name": "¡La cena está servida!",
+      "original_name": "¡La cena está servida!",
+      "enabled": true,
+      "icon": "farmersdelight:cooking_pot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/master_chef": {
+      "display_name": "Master Chef",
+      "original_name": "Master Chef",
+      "enabled": true,
+      "icon": "farmersdelight:honey_glazed_ham",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/obtain_netherite_knife": {
+      "display_name": "Si no puedes soportar el calor...",
+      "original_name": "Si no puedes soportar el calor...",
+      "enabled": true,
+      "icon": "farmersdelight:netherite_knife",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_fd_seed": {
+      "display_name": "Cultivos silvestres",
+      "original_name": "Cultivos silvestres",
+      "enabled": true,
+      "icon": "farmersdelight:wild_onions",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_campfire": {
+      "display_name": "Hoguera encendida",
+      "original_name": "Hoguera encendida",
+      "enabled": true,
+      "icon": "minecraft:campfire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/craft_knife": {
+      "display_name": "Caza y recolección",
+      "original_name": "Caza y recolección",
+      "enabled": true,
+      "icon": "farmersdelight:flint_knife",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/hit_raider_with_rotten_tomato": {
+      "display_name": "¡Buu! ¡Siseo!",
+      "original_name": "¡Buu! ¡Siseo!",
+      "enabled": true,
+      "icon": "farmersdelight:rotten_tomato",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_feast": {
+      "display_name": "Un festín glorioso",
+      "original_name": "Un festín glorioso",
+      "enabled": true,
+      "icon": "farmersdelight:roast_chicken_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

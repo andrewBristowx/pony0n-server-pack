@@ -1,0 +1,4 @@
+#Roll speed (from 1 to 200)
+# Default: 10
+# Range: 1 ~ 200
+rollSpeed = 10

@@ -1,0 +1,367 @@
+{
+  "enabled": true,
+  "mod_name": "Ice And Fire Community Edition",
+  "mod_id": "iceandfire",
+  "achievements": {
+    "iceandfire/pixie_wand": {
+      "display_name": "Bibidi-Babidi-Bu",
+      "original_name": "Bibidi-Babidi-Bu",
+      "enabled": true,
+      "icon": "iceandfire:pixie_wand",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragonsteel": {
+      "display_name": "Forjado en la llama",
+      "original_name": "Forjado en la llama",
+      "enabled": true,
+      "icon": "iceandfire:dragonsteel_fire_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/use_tide_trident": {
+      "display_name": "Poseidón, dios de los mares",
+      "original_name": "Poseidón, dios de los mares",
+      "enabled": true,
+      "icon": "iceandfire:tide_trident",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragon_meal": {
+      "display_name": "Hormona de crecimiento dracónica",
+      "original_name": "Hormona de crecimiento dracónica",
+      "enabled": true,
+      "icon": "iceandfire:dragon_meal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/kill_if_dragon": {
+      "display_name": "Dragon Slayer",
+      "original_name": "Dragon Slayer",
+      "enabled": true,
+      "icon": "iceandfire:dragonbone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragon_flute": {
+      "display_name": "La canción de los dragones",
+      "original_name": "La canción de los dragones",
+      "enabled": true,
+      "icon": "iceandfire:dragon_flute",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/root": {
+      "display_name": "Ice and Fire",
+      "original_name": "Ice and Fire",
+      "enabled": true,
+      "icon": "iceandfire:dragon_skull_fire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/tame_cockatrice": {
+      "display_name": "¡Aléjense de mi visión periférica!",
+      "original_name": "¡Aléjense de mi visión periférica!",
+      "enabled": true,
+      "icon": "iceandfire:cockatrice_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/kill_sea_serpent": {
+      "display_name": "El mar de los monstruos",
+      "original_name": "El mar de los monstruos",
+      "enabled": true,
+      "icon": "iceandfire:sea_serpent_fang",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/kill_stymphalian_bird": {
+      "display_name": "¡Hércules campeón!",
+      "original_name": "¡Hércules campeón!",
+      "enabled": true,
+      "icon": "iceandfire:stymphalian_bird_feather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/bestiary": {
+      "display_name": "Libro de monstruos",
+      "original_name": "Libro de monstruos",
+      "enabled": true,
+      "icon": "iceandfire:bestiary",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragon_egg": {
+      "display_name": "Madre de Dragones",
+      "original_name": "Madre de Dragones",
+      "enabled": true,
+      "icon": "iceandfire:dragonegg_red",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/tame_hippogryph": {
+      "display_name": "Buckbeak",
+      "original_name": "Buckbeak",
+      "enabled": true,
+      "icon": "iceandfire:hippogryph_talon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragon_staff": {
+      "display_name": "Comandante de dragón",
+      "original_name": "Comandante de dragón",
+      "enabled": true,
+      "icon": "iceandfire:dragon_stick",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragonbone_tool": {
+      "display_name": "Astillado II",
+      "original_name": "Astillado II",
+      "enabled": true,
+      "icon": "iceandfire:dragonbone_pickaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragonbone_flaming_sword": {
+      "display_name": "Una espada legendaria",
+      "original_name": "Una espada legendaria",
+      "enabled": true,
+      "icon": "iceandfire:dragonbone_sword_fire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/rotten_egg": {
+      "display_name": "Podrido hasta el centro",
+      "original_name": "Podrido hasta el centro",
+      "enabled": true,
+      "icon": "iceandfire:rotten_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/kill_troll": {
+      "display_name": "¡Tienen un trol de las cavernas!",
+      "original_name": "¡Tienen un trol de las cavernas!",
+      "enabled": true,
+      "icon": "iceandfire:troll_tusk",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/kill_ghost": {
+      "display_name": "Ghostbusters",
+      "original_name": "Ghostbusters",
+      "enabled": true,
+      "icon": "iceandfire:ectoplasm",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragonsteel_weapon": {
+      "display_name": "Draconic Evolution",
+      "original_name": "Draconic Evolution",
+      "enabled": true,
+      "icon": "iceandfire:dragonsteel_ice_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragon_forge_core": {
+      "display_name": "La llama del corazón",
+      "original_name": "La llama del corazón",
+      "enabled": true,
+      "icon": "iceandfire:dragonforge_fire_core",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/kill_deathworm": {
+      "display_name": "Temblores",
+      "original_name": "Temblores",
+      "enabled": true,
+      "icon": "iceandfire:deathworm_tounge",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/kill_hydra": {
+      "display_name": "Los doce trabajos",
+      "original_name": "Los doce trabajos",
+      "enabled": true,
+      "icon": "iceandfire:hydra_fang",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/lectern": {
+      "display_name": "¿Te gustaría saber más?",
+      "original_name": "¿Te gustaría saber más?",
+      "enabled": true,
+      "icon": "iceandfire:lectern",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragon_horn": {
+      "display_name": "Un rugido ensordecedor",
+      "original_name": "Un rugido ensordecedor",
+      "enabled": true,
+      "icon": "iceandfire:dragon_horn",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/jar_pixie": {
+      "display_name": "¿Qué vas a hacer con ese tarro?",
+      "original_name": "¿Qué vas a hacer con ese tarro?",
+      "enabled": true,
+      "icon": "iceandfire:pixie_jar_0",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/stymphalian_arrow": {
+      "display_name": "Volando hacia adelante",
+      "original_name": "Volando hacia adelante",
+      "enabled": true,
+      "icon": "iceandfire:stymphalian_arrow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragon_forge_brick": {
+      "display_name": "Ladrillo a ladrillo",
+      "original_name": "Ladrillo a ladrillo",
+      "enabled": true,
+      "icon": "iceandfire:dragonforge_fire_brick",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/tame_amphithere": {
+      "display_name": "Aviadores de la selva",
+      "original_name": "Aviadores de la selva",
+      "enabled": true,
+      "icon": "iceandfire:amphithere_feather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/dragonarmor": {
+      "display_name": "Armadura de escamas",
+      "original_name": "Armadura de escamas",
+      "enabled": true,
+      "icon": "iceandfire:dragonarmor_iron_body",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/kill_cyclops": {
+      "display_name": "Mi nombre es Nadie",
+      "original_name": "Mi nombre es Nadie",
+      "enabled": true,
+      "icon": "iceandfire:cyclops_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/kill_siren": {
+      "display_name": "¡Átenme al mástil!",
+      "original_name": "¡Átenme al mástil!",
+      "enabled": true,
+      "icon": "iceandfire:siren_tear",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/tame_pixie": {
+      "display_name": "Hey, listen!",
+      "original_name": "Hey, listen!",
+      "enabled": true,
+      "icon": "iceandfire:pixie_dust",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/deathworm_egg": {
+      "display_name": "Paul Atreides",
+      "original_name": "Paul Atreides",
+      "enabled": true,
+      "icon": "iceandfire:deathworm_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/tame_hippocampus": {
+      "display_name": "Mírame, ¡estoy embarazado!",
+      "original_name": "Mírame, ¡estoy embarazado!",
+      "enabled": true,
+      "icon": "iceandfire:hippocampus_fin",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iceandfire/gorgon_head": {
+      "display_name": "Furia de titanes",
+      "original_name": "Furia de titanes",
+      "enabled": true,
+      "icon": "iceandfire:gorgon_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+name = "SomitaMultiverCore-neoforge-0.1.0.jar"
+filename = "SomitaMultiverCore-neoforge-0.1.0.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/andrewBristowx/pony0n-server-pack/main/localmods/SomitaMultiverCore-neoforge-0.1.0.jar"
+hash-format = "sha256"
+hash = "f150f1c33b4d50ed94c5db17ee21f7c956ee55727361f43ec71606a25f9769b2"

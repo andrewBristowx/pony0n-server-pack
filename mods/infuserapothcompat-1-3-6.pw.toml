@@ -1,0 +1,13 @@
+name = "infuserapothcompat-1.3.6.jar"
+filename = "infuserapothcompat-1.3.6.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8980/522/infuserapothcompat-1.3.6.jar"
+hash-format = "sha256"
+hash = "b05e0db4d96ac7f3ac884513597d6ff9f7e0828468a3b67d19112f66a74d89c9"
+
+[update]
+[update.curseforge]
+file-id = 8980522
+project-id = 1446225

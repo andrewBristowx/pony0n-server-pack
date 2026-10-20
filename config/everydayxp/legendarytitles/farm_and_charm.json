@@ -1,0 +1,197 @@
+{
+  "enabled": true,
+  "mod_name": "[Let\u0027s Do] Farm \u0026 Charm",
+  "mod_id": "farm_and_charm",
+  "achievements": {
+    "main/eat_tomato": {
+      "display_name": "Taste the Red",
+      "original_name": "Taste the Red",
+      "enabled": true,
+      "icon": "farm_and_charm:tomato",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/make_everything": {
+      "display_name": "Masterchef Manifest",
+      "original_name": "Masterchef Manifest",
+      "enabled": true,
+      "icon": "farm_and_charm:stuffed_chicken",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_fertilizer": {
+      "display_name": "From Waste to Growth",
+      "original_name": "From Waste to Growth",
+      "enabled": true,
+      "icon": "farm_and_charm:fertilizer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_roaster": {
+      "display_name": "Roast and Boast",
+      "original_name": "Roast and Boast",
+      "enabled": true,
+      "icon": "farm_and_charm:roaster",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_fertilized_soil": {
+      "display_name": "Groundwork Laid",
+      "original_name": "Groundwork Laid",
+      "enabled": true,
+      "icon": "farm_and_charm:fertilized_soil",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/roast_everything": {
+      "display_name": "Roasting Rampage",
+      "original_name": "Roasting Rampage",
+      "enabled": true,
+      "icon": "farm_and_charm:bacon_with_eggs",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_chicken_coop": {
+      "display_name": "Cluckingham Palace",
+      "original_name": "Cluckingham Palace",
+      "enabled": true,
+      "icon": "farm_and_charm:chicken_coop",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_feeding_trough": {
+      "display_name": "Dinner Bell Rings",
+      "original_name": "Dinner Bell Rings",
+      "enabled": true,
+      "icon": "farm_and_charm:feeding_trough",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_stove": {
+      "display_name": "Dinner is Coming",
+      "original_name": "Dinner is Coming",
+      "enabled": true,
+      "icon": "farm_and_charm:stove",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_chicken_nest": {
+      "display_name": "What Came First...?",
+      "original_name": "What Came First...?",
+      "enabled": true,
+      "icon": "farm_and_charm:chicken_nest",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_water_sprinkler": {
+      "display_name": "Splash and Sprinkle",
+      "original_name": "Splash and Sprinkle",
+      "enabled": true,
+      "icon": "farm_and_charm:water_sprinkler",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cook_everything": {
+      "display_name": "Culinary Conqueror",
+      "original_name": "Culinary Conqueror",
+      "enabled": true,
+      "icon": "farm_and_charm:goulash",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_cooking_pot": {
+      "display_name": "Potluck Preparations",
+      "original_name": "Potluck Preparations",
+      "enabled": true,
+      "icon": "farm_and_charm:cooking_pot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/introduction_drying": {
+      "display_name": "The Art of Drying",
+      "original_name": "The Art of Drying",
+      "enabled": true,
+      "icon": "farm_and_charm:silo_wood",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/use_hoe_on_fertilized_soil": {
+      "display_name": "To Hoe or Not to Hoe",
+      "original_name": "To Hoe or Not to Hoe",
+      "enabled": true,
+      "icon": "farm_and_charm:fertilized_farmland",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/introduction_mincing": {
+      "display_name": "Just a Little Mincing",
+      "original_name": "Just a Little Mincing",
+      "enabled": true,
+      "icon": "farm_and_charm:mincer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/bake_everything": {
+      "display_name": "Baking Bonanza",
+      "original_name": "Baking Bonanza",
+      "enabled": true,
+      "icon": "farm_and_charm:baked_lamb_ham",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/use_pitchfork_on_fertilized_soil": {
+      "display_name": "Pitchfork Perfection",
+      "original_name": "Pitchfork Perfection",
+      "enabled": true,
+      "icon": "farm_and_charm:pitchfork",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/get_minced_beef": {
+      "display_name": "It’s @#%! Raw! Oh Wait, It’s Minced",
+      "original_name": "It’s @#%! Raw! Oh Wait, It’s Minced",
+      "enabled": true,
+      "icon": "farm_and_charm:minced_beef",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

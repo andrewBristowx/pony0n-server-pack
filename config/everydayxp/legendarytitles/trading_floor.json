@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "mod_name": "Create: Trading Floor",
+  "mod_id": "trading_floor",
+  "achievements": {
+    "drop_shipper": {
+      "display_name": "Intro to drop-shipping",
+      "original_name": "Intro to drop-shipping",
+      "enabled": true,
+      "icon": "minecraft:emerald",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "happy_jeff": {
+      "display_name": "Jeff Bezos would be proud",
+      "original_name": "Jeff Bezos would be proud",
+      "enabled": true,
+      "icon": "minecraft:emerald_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "ConstructionSticks-1.21.1-1.5.0.jar"
+filename = "ConstructionSticks-1.21.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8763/707/ConstructionSticks-1.21.1-1.5.0.jar"
+hash-format = "sha256"
+hash = "26520f830b243840f8ce6faf2ba0ec4abe9ea8ef1afd1086ca9d6f56bfb7dde2"
+
+[update]
+[update.curseforge]
+file-id = 8763707
+project-id = 1156098

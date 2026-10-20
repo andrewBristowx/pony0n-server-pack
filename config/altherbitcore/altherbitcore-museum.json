@@ -1,0 +1,14 @@
+{
+  "Museo": {},
+  "Ajustes": {
+    "OwnerLineES": "Obtenido por {owner}",
+    "OwnerLineEN": "Owned by {owner}",
+    "OwnerLineJP": "所有者: {owner}",
+    "UnassignedES": "(sin asignar)",
+    "UnassignedEN": "(unassigned)",
+    "UnassignedJP": "(未割り当て)",
+    "NameFormat": "{name}",
+    "HideUnownedIcon": false,
+    "HiddenIcon": ""
+  }
+}

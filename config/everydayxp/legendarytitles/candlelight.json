@@ -1,0 +1,167 @@
+{
+  "enabled": true,
+  "mod_name": "[Let\u0027s Do] Candlelight",
+  "mod_id": "candlelight",
+  "achievements": {
+    "main/cook_everything": {
+      "display_name": "Chef Maestro",
+      "original_name": "Chef Maestro",
+      "enabled": true,
+      "icon": "candlelight:salmon_on_white_wine",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cook_lasagna": {
+      "display_name": "Delicia en Capas",
+      "original_name": "Delicia en Capas",
+      "enabled": true,
+      "icon": "candlelight:lasagne",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_chocolate_mousse": {
+      "display_name": "Un regalo dulce",
+      "original_name": "Un regalo dulce",
+      "enabled": true,
+      "icon": "candlelight:chocolate_box",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_table": {
+      "display_name": "¡Prepara la Mesa!",
+      "original_name": "¡Prepara la Mesa!",
+      "enabled": true,
+      "icon": "candlelight:table",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/write_letter": {
+      "display_name": "Confesiones del Corazón",
+      "original_name": "Confesiones del Corazón",
+      "enabled": true,
+      "icon": "candlelight:letter_open",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cook_everything_pan": {
+      "display_name": "Maestro de la Sartén",
+      "original_name": "Maestro de la Sartén",
+      "enabled": true,
+      "icon": "candlelight:omelet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cook_everything_pot": {
+      "display_name": "Maestro de la Olla",
+      "original_name": "Maestro de la Olla",
+      "enabled": true,
+      "icon": "candlelight:chicken_with_vegetables",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/eat_enchanted_golden_apple_from_plate": {
+      "display_name": "Gourmet Dorado",
+      "original_name": "Gourmet Dorado",
+      "enabled": true,
+      "icon": "candlelight:plate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_cooking_pan": {
+      "display_name": "El Camino de la Sartén",
+      "original_name": "El Camino de la Sartén",
+      "enabled": true,
+      "icon": "candlelight:cooking_pan",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_cooking_pot": {
+      "display_name": "El Camino de la Olla",
+      "original_name": "El Camino de la Olla",
+      "enabled": true,
+      "icon": "candlelight:cooking_pot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_tablesign": {
+      "display_name": "El Camino de la Decoración",
+      "original_name": "El Camino de la Decoración",
+      "enabled": true,
+      "icon": "candlelight:table_sign",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/find_rose": {
+      "display_name": "Encuentra y recolecta una Rosa",
+      "original_name": "Encuentra y recolecta una Rosa",
+      "enabled": true,
+      "icon": "candlelight:rose",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cook_everything_vegetable": {
+      "display_name": "Maestro de Vegetales",
+      "original_name": "Maestro de Vegetales",
+      "enabled": true,
+      "icon": "candlelight:salad",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cook_beef_wellington": {
+      "display_name": "El plato favorito del Duque",
+      "original_name": "El plato favorito del Duque",
+      "enabled": true,
+      "icon": "candlelight:beef_wellington",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cook_tomato_mozzarella_salad": {
+      "display_name": "El Plato Favorito de MissLilitu",
+      "original_name": "El Plato Favorito de MissLilitu",
+      "enabled": true,
+      "icon": "candlelight:tomato_mozzarella_salad",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/place_typewriter": {
+      "display_name": "¿Eso Todavía es Hecho a Mano?",
+      "original_name": "¿Eso Todavía es Hecho a Mano?",
+      "enabled": true,
+      "icon": "candlelight:typewriter_gold",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

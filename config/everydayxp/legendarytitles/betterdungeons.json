@@ -1,0 +1,67 @@
+{
+  "enabled": true,
+  "mod_name": "YUNG\u0027s Better Dungeons",
+  "mod_id": "betterdungeons",
+  "achievements": {
+    "skeleton_dungeon": {
+      "display_name": "Un hueso que escoger",
+      "original_name": "Un hueso que escoger",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "all_dungeons": {
+      "display_name": "Mazmorreador profesional",
+      "original_name": "Mazmorreador profesional",
+      "enabled": true,
+      "icon": "minecraft:diamond_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "small_nether_dungeon": {
+      "display_name": "Una adición especial",
+      "original_name": "Una adición especial",
+      "enabled": true,
+      "icon": "minecraft:red_nether_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "small_dungeon": {
+      "display_name": "Toda la renovación",
+      "original_name": "Toda la renovación",
+      "enabled": true,
+      "icon": "minecraft:spawner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "zombie_dungeon": {
+      "display_name": "Cuando en Roma",
+      "original_name": "Cuando en Roma",
+      "enabled": true,
+      "icon": "minecraft:rotten_flesh",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spider_dungeon": {
+      "display_name": "Enredo de telarañas",
+      "original_name": "Enredo de telarañas",
+      "enabled": true,
+      "icon": "minecraft:string",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

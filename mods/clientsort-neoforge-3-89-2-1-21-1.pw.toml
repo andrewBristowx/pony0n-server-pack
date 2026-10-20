@@ -1,0 +1,13 @@
+name = "clientsort-neoforge-3.89.2+1.21.1.jar"
+filename = "clientsort-neoforge-3.89.2+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8978/780/clientsort-neoforge-3.89.2%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "7c165afb958c0ece3472efac8925112513abdf6e37437c8862268f43144a5ddf"
+
+[update]
+[update.curseforge]
+file-id = 8978780
+project-id = 1049891

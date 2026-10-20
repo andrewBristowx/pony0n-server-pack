@@ -1,0 +1,13 @@
+name = "ultimatecustomgear-1.21.1-1.7.2-NeoForge.jar"
+filename = "ultimatecustomgear-1.21.1-1.7.2-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9014/764/ultimatecustomgear-1.21.1-1.7.2-NeoForge.jar"
+hash-format = "sha256"
+hash = "d76d7b720072390f9b87018d638058861709b1a05487d9671abd984ed05c9384"
+
+[update]
+[update.curseforge]
+file-id = 9014764
+project-id = 1563239

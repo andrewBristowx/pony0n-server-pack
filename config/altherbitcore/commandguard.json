@@ -1,0 +1,12 @@
+{
+  "visMode": "OFF",
+  "execMode": "OFF",
+  "groups": {
+    "base": {
+      "visHide": [],
+      "visShow": [],
+      "execBlock": [],
+      "execAllow": []
+    }
+  }
+}

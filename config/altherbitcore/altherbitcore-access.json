@@ -1,0 +1,7 @@
+{
+  "maintenanceEnabled": false,
+  "maintenanceMessage": "§cEl servidor está en mantenimiento. Vuelve pronto.",
+  "maintenanceBypass": [],
+  "whitelistEnabled": false,
+  "whitelist": []
+}

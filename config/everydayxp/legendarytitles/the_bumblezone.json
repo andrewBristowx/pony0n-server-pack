@@ -1,0 +1,417 @@
+{
+  "enabled": true,
+  "mod_name": "The Bumblezone",
+  "mod_id": "the_bumblezone",
+  "achievements": {
+    "candles/obtain_all_colored_super_candles": {
+      "display_name": "¡Sobre el arcoiris!",
+      "original_name": "¡Sobre el arcoiris!",
+      "enabled": true,
+      "icon": "the_bumblezone:super_candle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "essence/essence_life": {
+      "display_name": "Bendiciones de la vida",
+      "original_name": "Bendiciones de la vida",
+      "enabled": true,
+      "icon": "the_bumblezone:essence_life",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "effects/beenergized_maxed": {
+      "display_name": "¡Abejas zumbadoras veloces!",
+      "original_name": "¡Abejas zumbadoras veloces!",
+      "enabled": true,
+      "icon": "the_bumblezone:bee_bread",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "honey_bucket/obtain_royal_jelly_bucket": {
+      "display_name": "Coleccionista magistral",
+      "original_name": "Coleccionista magistral",
+      "enabled": true,
+      "icon": "the_bumblezone:royal_jelly_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "biomes/discover_all_biomes": {
+      "display_name": "Beeografía",
+      "original_name": "Beeografía",
+      "enabled": true,
+      "icon": "minecraft:spyglass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dirt_pellet/dirt_pellet_return_to_sender": {
+      "display_name": "Un regreso sucio",
+      "original_name": "Un regreso sucio",
+      "enabled": true,
+      "icon": "the_bumblezone:dirt_pellet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sentry_watcher/sentry_watcher_use_egg": {
+      "display_name": "Tutor personal",
+      "original_name": "Tutor personal",
+      "enabled": true,
+      "icon": "the_bumblezone:sentry_watcher_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "structures/enter_garden": {
+      "display_name": "El jardinero y las abejas",
+      "original_name": "El jardinero y las abejas",
+      "enabled": true,
+      "icon": "the_bumblezone:crystalline_flower",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "structures/enter_throne_pillar": {
+      "display_name": "Presencia Real",
+      "original_name": "Presencia Real",
+      "enabled": true,
+      "icon": "the_bumblezone:bee_queen_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "effects/getting_protection": {
+      "display_name": "Ganar favores",
+      "original_name": "Ganar favores",
+      "enabled": true,
+      "icon": "the_bumblezone:honeycomb_brood_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "structures/enter_sempiternal_sanctum": {
+      "display_name": "Orígenes antiguos",
+      "original_name": "Orígenes antiguos",
+      "enabled": true,
+      "icon": "the_bumblezone:luminescent_wax_corner_white",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "music_discs/obtain_all_music_discs": {
+      "display_name": "¡Tengo que bailar!",
+      "original_name": "¡Tengo que bailar!",
+      "enabled": true,
+      "icon": "the_bumblezone:music_disc_honey_bee_rat_faced_boy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "honey_bucket/drink_royal_jelly_bottle": {
+      "display_name": "Obtén poderes reales",
+      "original_name": "Obtén poderes reales",
+      "enabled": true,
+      "icon": "the_bumblezone:royal_jelly_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "essence/essence_continuity": {
+      "display_name": "Falla de realidad",
+      "original_name": "Falla de realidad",
+      "enabled": true,
+      "icon": "the_bumblezone:essence_continuity",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "candles/multi_potion_potion_candle": {
+      "display_name": "Magia velera",
+      "original_name": "Magia velera",
+      "enabled": true,
+      "icon": "the_bumblezone:potion_candle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "effects/brew_glistering_honey_crystal_block": {
+      "display_name": "¡Trampas!",
+      "original_name": "¡Trampas!",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "effects/brew_bee_stinger": {
+      "display_name": "Toxinas concentradas",
+      "original_name": "Toxinas concentradas",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "decor/obtain_all_banner_patterns": {
+      "display_name": "¡Moda de moda!",
+      "original_name": "¡Moda de moda!",
+      "enabled": true,
+      "icon": "the_bumblezone:banner_pattern_bee",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "candles/projectile_light_instant_potion_candle": {
+      "display_name": "¡Activé mi vela trampa!",
+      "original_name": "¡Activé mi vela trampa!",
+      "enabled": true,
+      "icon": "the_bumblezone:potion_candle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "decor/obtain_all_string_curtains": {
+      "display_name": "¡Cortinas arcoíris!",
+      "original_name": "¡Cortinas arcoíris!",
+      "enabled": true,
+      "icon": "the_bumblezone:string_curtain_orange",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "essence/essence_radiance": {
+      "display_name": "Energía solar",
+      "original_name": "Energía solar",
+      "enabled": true,
+      "icon": "the_bumblezone:essence_radiance",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bees/variant_bee_name": {
+      "display_name": "¡Un brillante encontrado!",
+      "original_name": "¡Un brillante encontrado!",
+      "enabled": true,
+      "icon": "the_bumblezone:variant_bee_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "armor/warrior_bee": {
+      "display_name": "¡La abeja guerrera!",
+      "original_name": "¡La abeja guerrera!",
+      "enabled": true,
+      "icon": "the_bumblezone:stingless_bee_helmet_1",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "crystalline_flower/enchant_crystalline_flower": {
+      "display_name": "Elegir sabiamente",
+      "original_name": "Elegir sabiamente",
+      "enabled": true,
+      "icon": "the_bumblezone:crystalline_flower",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "structures/enter_cell_maze": {
+      "display_name": "Perdido en las celdas",
+      "original_name": "Perdido en las celdas",
+      "enabled": true,
+      "icon": "minecraft:honeycomb",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bees/variant_bee_briefcase_capture": {
+      "display_name": "Coleccionista de abejas",
+      "original_name": "Coleccionista de abejas",
+      "enabled": true,
+      "icon": "the_bumblezone:variant_bee_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "rootmin/rootmin_flower_swap": {
+      "display_name": "Intercambio floral",
+      "original_name": "Intercambio floral",
+      "enabled": true,
+      "icon": "the_bumblezone:rootmin_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "essence/essence_raging": {
+      "display_name": "Ira imparable",
+      "original_name": "Ira imparable",
+      "enabled": true,
+      "icon": "the_bumblezone:essence_raging",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "effects/brew_bee_soup": {
+      "display_name": "Peligro en ciernes",
+      "original_name": "Peligro en ciernes",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_queens_desire/the_beginning": {
+      "display_name": "El deseo de la reina",
+      "original_name": "El deseo de la reina",
+      "enabled": true,
+      "icon": "the_bumblezone:bee_queen_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "honey_crystal_shield/obtain_maxed_honey_crystal_shield": {
+      "display_name": "Gran defensor de la colmena",
+      "original_name": "Gran defensor de la colmena",
+      "enabled": true,
+      "icon": "the_bumblezone:honey_crystal_shield",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "effects/consume_bee_soup": {
+      "display_name": "Un manjar tacaño",
+      "original_name": "Un manjar tacaño",
+      "enabled": true,
+      "icon": "the_bumblezone:bee_soup",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "rootmin/rootmin_rainbow_name": {
+      "display_name": "¡¿QUÉ SIGNIFICA?!",
+      "original_name": "¡¿QUÉ SIGNIFICA?!",
+      "enabled": true,
+      "icon": "the_bumblezone:rootmin_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "essence/bee_essence_infusion": {
+      "display_name": "¡Esperanza, amor, sueños y ABEJAS!",
+      "original_name": "¡Esperanza, amor, sueños y ABEJAS!",
+      "enabled": true,
+      "icon": "the_bumblezone:essence_of_the_bees",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "structures/enter_all_structures": {
+      "display_name": "Sightbee-er",
+      "original_name": "Sightbee-er",
+      "enabled": true,
+      "icon": "minecraft:filled_map",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "honey_slime/honey_slime_creation": {
+      "display_name": "¡La miel está viva!",
+      "original_name": "¡La miel está viva!",
+      "enabled": true,
+      "icon": "the_bumblezone:honey_slime_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "essence/essence_calming": {
+      "display_name": "Paz y amor",
+      "original_name": "Paz y amor",
+      "enabled": true,
+      "icon": "the_bumblezone:essence_calming",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "beehemoth/queen_beehemoth": {
+      "display_name": "¡Amigos reales hasta el final!",
+      "original_name": "¡Amigos reales hasta el final!",
+      "enabled": true,
+      "icon": "the_bumblezone:beehemoth_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "the_queens_desire/journeys_end": {
+      "display_name": "El final del viaje",
+      "original_name": "El final del viaje",
+      "enabled": true,
+      "icon": "the_bumblezone:essence_of_the_bees",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "essence/essence_knowing": {
+      "display_name": "El que todo lo ve",
+      "original_name": "El que todo lo ve",
+      "enabled": true,
+      "icon": "the_bumblezone:essence_knowing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dirt_pellet/dirt_pellet_kill_phantom": {
+      "display_name": "Bofetada aerea",
+      "original_name": "Bofetada aerea",
+      "enabled": true,
+      "icon": "the_bumblezone:dirt_pellet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

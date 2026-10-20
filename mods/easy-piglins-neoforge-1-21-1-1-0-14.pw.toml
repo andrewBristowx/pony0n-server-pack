@@ -1,0 +1,13 @@
+name = "easy-piglins-neoforge-1.21.1-1.0.14.jar"
+filename = "easy-piglins-neoforge-1.21.1-1.0.14.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6137/967/easy-piglins-neoforge-1.21.1-1.0.14.jar"
+hash-format = "sha256"
+hash = "64c300833a046bfecdb54e98206e807579cefa12fa247f92dfbeb55e94d30c6d"
+
+[update]
+[update.curseforge]
+file-id = 6137967
+project-id = 419372

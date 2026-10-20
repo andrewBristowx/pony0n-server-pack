@@ -1,0 +1,13 @@
+{
+  "editWhitelist": [],
+  "useWhitelist": [],
+  "itemUseWhitelist": [],
+  "entityInteractWhitelist": [],
+  "entityAttackWhitelist": [],
+  "placementItems": [
+    "immersive_paintings:painting",
+    "immersive_paintings:glow_painting",
+    "immersive_paintings:graffiti",
+    "immersive_paintings:glow_graffiti"
+  ]
+}

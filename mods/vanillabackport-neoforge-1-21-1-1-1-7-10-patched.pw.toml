@@ -1,0 +1,8 @@
+name = "VanillaBackport-neoforge-1.21.1-1.1.7.10-patched.jar"
+filename = "VanillaBackport-neoforge-1.21.1-1.1.7.10-patched.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/andrewBristowx/pony0n-server-pack/main/localmods/VanillaBackport-neoforge-1.21.1-1.1.7.10-patched.jar"
+hash-format = "sha256"
+hash = "c50d224a5a2d9069e53c6c162d215be24f40df0f145aaad18720c48d6c3a7ca0"

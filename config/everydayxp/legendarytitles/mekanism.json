@@ -1,0 +1,467 @@
+{
+  "enabled": true,
+  "mod_name": "Mekanism",
+  "mod_id": "mekanism",
+  "achievements": {
+    "sps_experiment_pig": {
+      "display_name": "Attempt at Pig Intelligence",
+      "original_name": "Attempt at Pig Intelligence",
+      "enabled": true,
+      "icon": "minecraft:pig_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "basic_control_circuit": {
+      "display_name": "Hacer a una roca pensar",
+      "original_name": "Hacer a una roca pensar",
+      "enabled": true,
+      "icon": "mekanism:basic_control_circuit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "breathing_assistance": {
+      "display_name": "Respira fácil",
+      "original_name": "Respira fácil",
+      "enabled": true,
+      "icon": "mekanism:scuba_mask",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "laser_death": {
+      "display_name": "¡Mmmmmm, Crujiente!",
+      "original_name": "¡Mmmmmm, Crujiente!",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "moving_blocks": {
+      "display_name": "¡Día de mudanza!",
+      "original_name": "¡Día de mudanza!",
+      "enabled": true,
+      "icon": "mekanism:cardboard_box",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hydrogen_powered_flight": {
+      "display_name": "Vuelo Propulsado por Hidrógeno",
+      "original_name": "Vuelo Propulsado por Hidrógeno",
+      "enabled": true,
+      "icon": "mekanism:jetpack",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "teleporter": {
+      "display_name": "Cosa Rápida Entra, Cosa rápida sale",
+      "original_name": "Cosa Rápida Entra, Cosa rápida sale",
+      "enabled": true,
+      "icon": "mekanism:teleporter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stopping_lasers": {
+      "display_name": "¡Sal De mi Espectro!",
+      "original_name": "¡Sal De mi Espectro!",
+      "enabled": true,
+      "icon": "minecraft:shield",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "running_free": {
+      "display_name": "Sí, estoy en caída libre’",
+      "original_name": "Sí, estoy en caída libre’",
+      "enabled": true,
+      "icon": "mekanism:free_runners",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "full_canteen": {
+      "display_name": "Pasta Sabrosa",
+      "original_name": "Pasta Sabrosa",
+      "enabled": true,
+      "icon": "mekanism:canteen",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stabilizing_chunks": {
+      "display_name": "Estabilizar el universo",
+      "original_name": "Estabilizar el universo",
+      "enabled": true,
+      "icon": "mekanism:dimensional_stabilizer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "radiation_poisoning": {
+      "display_name": "¿Te gusta este sabor como metal a ti?",
+      "original_name": "¿Te gusta este sabor como metal a ti?",
+      "enabled": true,
+      "icon": "mekanism:radioactive_waste_barrel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "configurator": {
+      "display_name": "Configura todo",
+      "original_name": "Configura todo",
+      "enabled": true,
+      "icon": "mekanism:configurator",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quantum_entangloporter": {
+      "display_name": "Entrelazamiento cuántico",
+      "original_name": "Entrelazamiento cuántico",
+      "enabled": true,
+      "icon": "mekanism:quantum_entangloporter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "steel_casing": {
+      "display_name": "La Base Perfecta",
+      "original_name": "La Base Perfecta",
+      "enabled": true,
+      "icon": "mekanism:steel_casing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "disassembler": {
+      "display_name": "¡Necesita más velocidaaaaad!",
+      "original_name": "¡Necesita más velocidaaaaad!",
+      "enabled": true,
+      "icon": "mekanism:atomic_disassembler",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "radiation_poisoning_death": {
+      "display_name": "No es genial, tampoco terrible",
+      "original_name": "No es genial, tampoco terrible",
+      "enabled": true,
+      "icon": "minecraft:player_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enricher": {
+      "display_name": "Obteniendo Más de Menos",
+      "original_name": "Obteniendo Más de Menos",
+      "enabled": true,
+      "icon": "mekanism:enrichment_chamber",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infusing_efficiency": {
+      "display_name": "Eficiencia de infusión",
+      "original_name": "Eficiencia de infusión",
+      "enabled": true,
+      "icon": "mekanism:enriched_redstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "antimatter": {
+      "display_name": "Material Imposible",
+      "original_name": "Material Imposible",
+      "enabled": true,
+      "icon": "mekanism:pellet_antimatter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mekasuit": {
+      "display_name": "Mekanista",
+      "original_name": "Mekanista",
+      "enabled": true,
+      "icon": "mekanism:mekasuit_bodyarmor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "robit": {
+      "display_name": "¡Un nuevo mejor amigo!",
+      "original_name": "¡Un nuevo mejor amigo!",
+      "enabled": true,
+      "icon": "mekanism:robit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "infused_alloy": {
+      "display_name": "La Aleación que lo empezó todo",
+      "original_name": "La Aleación que lo empezó todo",
+      "enabled": true,
+      "icon": "mekanism:alloy_infused",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "polonium": {
+      "display_name": "Polonio, no Plutonio",
+      "original_name": "Polonio, no Plutonio",
+      "enabled": true,
+      "icon": "mekanism:pellet_polonium",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "plutonium": {
+      "display_name": "Plutonio, no Polonio",
+      "original_name": "Plutonio, no Polonio",
+      "enabled": true,
+      "icon": "mekanism:pellet_plutonium",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "portable_qio_dashboard": {
+      "display_name": "Quién necesita Mochilas?",
+      "original_name": "Quién necesita Mochilas?",
+      "enabled": true,
+      "icon": "mekanism:portable_qio_dashboard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "radiation_prevention": {
+      "display_name": "Inelegible, pero inteligente",
+      "original_name": "Inelegible, pero inteligente",
+      "enabled": true,
+      "icon": "mekanism:hazmat_gown",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "qio_drive_array": {
+      "display_name": "¡Espera! ¿Dónde están todos los cables?!",
+      "original_name": "¡Espera! ¿Dónde están todos los cables?!",
+      "enabled": true,
+      "icon": "mekanism:qio_drive_array",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "metallurgic_infuser": {
+      "display_name": "¿Un Meta qué?",
+      "original_name": "¿Un Meta qué?",
+      "enabled": true,
+      "icon": "mekanism:metallurgic_infuser",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "steel_ingot": {
+      "display_name": "Revolución Industrial",
+      "original_name": "Revolución Industrial",
+      "enabled": true,
+      "icon": "mekanism:ingot_steel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sps_experiment_villager": {
+      "display_name": "Villager Electroshock Therapy?",
+      "original_name": "Villager Electroshock Therapy?",
+      "enabled": true,
+      "icon": "minecraft:villager_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "basic_qio_drive": {
+      "display_name": "Realidad comprimida",
+      "original_name": "Realidad comprimida",
+      "enabled": true,
+      "icon": "mekanism:qio_drive_base",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "portable_teleporter": {
+      "display_name": "Beam Me Up Scotty",
+      "original_name": "Beam Me Up Scotty",
+      "enabled": true,
+      "icon": "mekanism:portable_teleporter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "modification_station": {
+      "display_name": "Enciende tu Tweak",
+      "original_name": "Enciende tu Tweak",
+      "enabled": true,
+      "icon": "mekanism:modification_station",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "digital_miner": {
+      "display_name": "Atrapado dentro",
+      "original_name": "Atrapado dentro",
+      "enabled": true,
+      "icon": "mekanism:digital_miner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "chemical_crystallizer": {
+      "display_name": "La mayor inversión por su dinero",
+      "original_name": "La mayor inversión por su dinero",
+      "enabled": true,
+      "icon": "mekanism:chemical_crystallizer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "factory": {
+      "display_name": "¡La Fábrica Debe Crecer!",
+      "original_name": "¡La Fábrica Debe Crecer!",
+      "enabled": true,
+      "icon": "mekanism:basic_smelting_factory",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ultimate_qio_drive": {
+      "display_name": "Universo Paralelo Detectado",
+      "original_name": "Universo Paralelo Detectado",
+      "enabled": true,
+      "icon": "mekanism:qio_drive_supermassive",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "qio_dashboard": {
+      "display_name": "Mucho más que un Monitor",
+      "original_name": "Mucho más que un Monitor",
+      "enabled": true,
+      "icon": "mekanism:qio_dashboard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "logistical_sorter": {
+      "display_name": "Elegir y colocar",
+      "original_name": "Elegir y colocar",
+      "enabled": true,
+      "icon": "mekanism:logistical_sorter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "upgraded_mekasuit": {
+      "display_name": "Verdadera Dedicación",
+      "original_name": "Verdadera Dedicación",
+      "enabled": true,
+      "icon": "mekanism:mekasuit_bodyarmor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cleaning_gauges": {
+      "display_name": "Medidores de limpieza",
+      "original_name": "Medidores de limpieza",
+      "enabled": true,
+      "icon": "mekanism:gauge_dropper",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sps_experiment_creeper": {
+      "display_name": "Experimenting on Creepers",
+      "original_name": "Experimenting on Creepers",
+      "enabled": true,
+      "icon": "minecraft:creeper_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nucleosynthesizer": {
+      "display_name": "Alquimia, pero hazlo científico",
+      "original_name": "Alquimia, pero hazlo científico",
+      "enabled": true,
+      "icon": "mekanism:antiprotonic_nucleosynthesizer",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sps_experiment_mooshroom": {
+      "display_name": "Mooshroom Recoloring",
+      "original_name": "Mooshroom Recoloring",
+      "enabled": true,
+      "icon": "minecraft:mooshroom_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "stone_generator": {
+      "display_name": "Reemplaza con Piedra",
+      "original_name": "Reemplaza con Piedra",
+      "enabled": true,
+      "icon": "mekanism:upgrade_stone_generator",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

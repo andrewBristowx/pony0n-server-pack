@@ -1,0 +1,13 @@
+name = "FastSuite-1.21.1-6.0.7.jar"
+filename = "FastSuite-1.21.1-6.0.7.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/7527/945/FastSuite-1.21.1-6.0.7.jar"
+hash-format = "sha256"
+hash = "3e274cd01bdc27dff8e2514213f1c45306c86fe38e4271a4209bc1471de6c70d"
+
+[update]
+[update.curseforge]
+file-id = 7527945
+project-id = 475117

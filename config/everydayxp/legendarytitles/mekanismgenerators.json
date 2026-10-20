@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "mod_name": "Mekanism: Generators",
+  "mod_id": "mekanismgenerators",
+  "achievements": {
+    "burn_the_gas": {
+      "display_name": "Quema el gas",
+      "original_name": "Quema el gas",
+      "enabled": true,
+      "icon": "mekanismgenerators:gas_burning_generator",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "heat_generator": {
+      "display_name": "Su primer generador",
+      "original_name": "Su primer generador",
+      "enabled": true,
+      "icon": "mekanismgenerators:heat_generator",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

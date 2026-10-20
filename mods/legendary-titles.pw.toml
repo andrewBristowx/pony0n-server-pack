@@ -1,0 +1,13 @@
+name = "Epic RPG: Legendary Titles"
+filename = "legendarytitles-neo-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNk1Fan4/versions/J4qmY2JZ/legendarytitles-neo-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "72bba89ed7d6956a12eb62b6e8e17a3503f7cb9f0a5bad0aaa3d3e28f02a5c3ee5a95f25750037f66892d388c6882a0ea4bcedc3ef142062976d9808c4910060"
+
+[update]
+[update.modrinth]
+mod-id = "vNk1Fan4"
+version = "J4qmY2JZ"

@@ -1,0 +1,13 @@
+name = "AppliedFlux-1.21-2.1.6-neoforge.jar"
+filename = "AppliedFlux-1.21-2.1.6-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8970/797/AppliedFlux-1.21-2.1.6-neoforge.jar"
+hash-format = "sha256"
+hash = "18b27bf5a4cdb4eea272c3424cc2a4c4f604ed2e73f3e05dccdf7a1b1d6dc97e"
+
+[update]
+[update.curseforge]
+file-id = 8970797
+project-id = 965012

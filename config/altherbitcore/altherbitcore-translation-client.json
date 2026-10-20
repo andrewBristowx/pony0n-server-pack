@@ -1,0 +1,23 @@
+{
+  "spokenLang": "es",
+  "sttModel": "small",
+  "voiceEnabled": true,
+  "ignoreOwnLang": false,
+  "minBalloonWidth": 8,
+  "maxBalloonWidth": 180,
+  "maxBalloons": 5,
+  "balloonPadding": 3,
+  "balloonAgeSeconds": 8,
+  "textColor": 0,
+  "balloonTint": 15857400,
+  "balloonOpacity": 0.95,
+  "balloonsHeightOffset": 0.5,
+  "distanceBetweenBalloons": 3,
+  "showOwnBalloon": true,
+  "bubblesEnabled": true,
+  "transcriptPinned": false,
+  "transcriptX": -1,
+  "transcriptY": -1,
+  "transcriptW": 200,
+  "transcriptH": 140
+}

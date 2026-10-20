@@ -1,0 +1,77 @@
+{
+  "enabled": true,
+  "mod_name": "[Let\u0027s Do Addon] Corn Expansion",
+  "mod_id": "cornexpansion",
+  "achievements": {
+    "get_every_polenta_variant": {
+      "display_name": "Polenta of Flavors",
+      "original_name": "Polenta of Flavors",
+      "enabled": true,
+      "icon": "cornexpansion:cheesy_polenta",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "drink_corn_syrup": {
+      "display_name": "Corny Situation",
+      "original_name": "Corny Situation",
+      "enabled": true,
+      "icon": "cornexpansion:corn_syrup",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "get_polenta": {
+      "display_name": "Steam-Powered Corn",
+      "original_name": "Steam-Powered Corn",
+      "enabled": true,
+      "icon": "cornexpansion:polenta",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "cook_kernels_on_campfire": {
+      "display_name": "These are not Marshmallows !",
+      "original_name": "These are not Marshmallows !",
+      "enabled": true,
+      "icon": "minecraft:campfire",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "getcorn": {
+      "display_name": "Fun is Just Around the CORNer",
+      "original_name": "Fun is Just Around the CORNer",
+      "enabled": true,
+      "icon": "farm_and_charm:corn",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "getpopcorn": {
+      "display_name": "Always go out With A \"Pop\"",
+      "original_name": "Always go out With A \"Pop\"",
+      "enabled": true,
+      "icon": "cornexpansion:popcorn",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "geteverypopcornvariant": {
+      "display_name": "Now you\u0027re Popping Off !",
+      "original_name": "Now you\u0027re Popping Off !",
+      "enabled": true,
+      "icon": "cornexpansion:candied_popcorn",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

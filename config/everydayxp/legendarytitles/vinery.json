@@ -1,0 +1,197 @@
+{
+  "enabled": true,
+  "mod_name": "[Let\u0027s Do] Vinery",
+  "mod_id": "vinery",
+  "achievements": {
+    "main/the_first_press": {
+      "display_name": "The First Press",
+      "original_name": "The First Press",
+      "enabled": true,
+      "icon": "vinery:apple_press",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/vintage_perfection": {
+      "display_name": "Vintage Percetion",
+      "original_name": "Vintage Percetion",
+      "enabled": true,
+      "icon": "vinery:lilitu_wine",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/nectar_of_life": {
+      "display_name": "Nectar of Life",
+      "original_name": "Nectar of Life",
+      "enabled": true,
+      "icon": "vinery:white_taiga_grapejuice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/vineyard_visionary": {
+      "display_name": "Vineyard Visionary",
+      "original_name": "Vineyard Visionary",
+      "enabled": true,
+      "icon": "vinery:savanna_grapes_white",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/the_magic_of_the_barrel": {
+      "display_name": "The Magic of the Barrel",
+      "original_name": "The Magic of the Barrel",
+      "enabled": true,
+      "icon": "vinery:fermentation_barrel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/juice_it_up": {
+      "display_name": "Juice It Up!",
+      "original_name": "Juice It Up!",
+      "enabled": true,
+      "icon": "vinery:grapevine_pot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/fruits_of_the_field": {
+      "display_name": "Fruits of the Field",
+      "original_name": "Fruits of the Field",
+      "enabled": true,
+      "icon": "vinery:apple_tree_sapling",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/sowing_the_future": {
+      "display_name": "Sowing the Future",
+      "original_name": "Sowing the Future",
+      "enabled": true,
+      "icon": "vinery:grapevine_stem",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/overgrown_lattices": {
+      "display_name": "Overgrown Lattices",
+      "original_name": "Overgrown Lattices",
+      "enabled": true,
+      "icon": "vinery:oak_lattice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/purely_apple": {
+      "display_name": "Purely Apple",
+      "original_name": "Purely Apple",
+      "enabled": true,
+      "icon": "vinery:apple_juice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/mashy_success": {
+      "display_name": "Mashy Success",
+      "original_name": "Mashy Success",
+      "enabled": true,
+      "icon": "vinery:apple_mash",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/wine_somelier": {
+      "display_name": "Wine Sommelier",
+      "original_name": "Wine Sommelier",
+      "enabled": true,
+      "icon": "vinery:jellie_wine",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/the_noble_drop": {
+      "display_name": "The Noble Drop",
+      "original_name": "The Noble Drop",
+      "enabled": true,
+      "icon": "vinery:red_wine",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/juicy_success": {
+      "display_name": "Juicy Success",
+      "original_name": "Juicy Success",
+      "enabled": true,
+      "icon": "vinery:red_taiga_grapejuice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/cherry_picker": {
+      "display_name": "Cherry Picker",
+      "original_name": "Cherry Picker",
+      "enabled": true,
+      "icon": "vinery:cherry",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/budding_grapes": {
+      "display_name": "Budding Grapes",
+      "original_name": "Budding Grapes",
+      "enabled": true,
+      "icon": "vinery:jungle_grapes_red",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/forbidden_fruit": {
+      "display_name": "Forbidden Fruit",
+      "original_name": "Forbidden Fruit",
+      "enabled": true,
+      "icon": "minecraft:apple",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/grape_picker": {
+      "display_name": "Grape Picker",
+      "original_name": "Grape Picker",
+      "enabled": true,
+      "icon": "vinery:taiga_grapes_red",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/wild_harvest": {
+      "display_name": "Wild Harvest",
+      "original_name": "Wild Harvest",
+      "enabled": true,
+      "icon": "vinery:jungle_grape_seeds_red",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

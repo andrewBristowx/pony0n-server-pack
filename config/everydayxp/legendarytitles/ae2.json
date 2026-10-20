@@ -1,0 +1,217 @@
+{
+  "enabled": true,
+  "mod_name": "Applied Energistics 2",
+  "mod_id": "ae2",
+  "achievements": {
+    "main/network3": {
+      "display_name": "Administrador de Red",
+      "original_name": "Administrador de Red",
+      "enabled": true,
+      "icon": "ae2:fluix_smart_dense_cable",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/network2": {
+      "display_name": "Ingeniero de Red",
+      "original_name": "Ingeniero de Red",
+      "enabled": true,
+      "icon": "ae2:fluix_smart_cable",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/network1": {
+      "display_name": "Aprendíz de Red",
+      "original_name": "Aprendíz de Red",
+      "enabled": true,
+      "icon": "ae2:fluix_covered_cable",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/network_tool": {
+      "display_name": "Diagnóstico de Red",
+      "original_name": "Diagnóstico de Red",
+      "enabled": true,
+      "icon": "ae2:network_tool",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/charger": {
+      "display_name": "¡Es Hora de Cargar!",
+      "original_name": "¡Es Hora de Cargar!",
+      "enabled": true,
+      "icon": "ae2:charger",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/qnb": {
+      "display_name": "Tunelización Cuántica",
+      "original_name": "Tunelización Cuántica",
+      "enabled": true,
+      "icon": "ae2:quantum_link",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/crafting_terminal": {
+      "display_name": "Una Mesa (Mucho) Más Grande",
+      "original_name": "Una Mesa (Mucho) Más Grande",
+      "enabled": true,
+      "icon": "ae2:crafting_terminal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/p2p": {
+      "display_name": "Redes Punto a Punto",
+      "original_name": "Redes Punto a Punto",
+      "enabled": true,
+      "icon": "ae2:me_p2p_tunnel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/controller": {
+      "display_name": "Tablero de Conmutadores de Red",
+      "original_name": "Tablero de Conmutadores de Red",
+      "enabled": true,
+      "icon": "ae2:controller",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/facade": {
+      "display_name": "Estética de Red",
+      "original_name": "Estética de Red",
+      "enabled": true,
+      "icon": "ae2:facade",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/presses": {
+      "display_name": "Tecnología Desconocida",
+      "original_name": "Tecnología Desconocida",
+      "enabled": true,
+      "icon": "ae2:logic_processor_press",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/charged_quartz": {
+      "display_name": "¡Impactante!",
+      "original_name": "¡Impactante!",
+      "enabled": true,
+      "icon": "ae2:charged_certus_quartz_crystal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/storage_bus": {
+      "display_name": "Potencial Ilimitado",
+      "original_name": "Potencial Ilimitado",
+      "enabled": true,
+      "icon": "ae2:storage_bus",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/spatial_ioport": {
+      "display_name": "Coordinación Espacial",
+      "original_name": "Coordinación Espacial",
+      "enabled": true,
+      "icon": "ae2:spatial_io_port",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/compass": {
+      "display_name": "Cazador de Meteoritos",
+      "original_name": "Cazador de Meteoritos",
+      "enabled": true,
+      "icon": "ae2:meteorite_compass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/glass_cable": {
+      "display_name": "Conección de Energía Fluix",
+      "original_name": "Conección de Energía Fluix",
+      "enabled": true,
+      "icon": "ae2:fluix_glass_cable",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/growth_accelerator": {
+      "display_name": "Acelerador es Decir Poco",
+      "original_name": "Acelerador es Decir Poco",
+      "enabled": true,
+      "icon": "ae2:growth_accelerator",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/fluix": {
+      "display_name": "Antinatural",
+      "original_name": "Antinatural",
+      "enabled": true,
+      "icon": "ae2:fluix_crystal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/ioport": {
+      "display_name": "Mezcla de Células de Almacenamiento",
+      "original_name": "Mezcla de Células de Almacenamiento",
+      "enabled": true,
+      "icon": "ae2:io_port",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/pattern_encoding_terminal": {
+      "display_name": "Máster de la Fabricación",
+      "original_name": "Máster de la Fabricación",
+      "enabled": true,
+      "icon": "ae2:pattern_encoding_terminal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/recursive": {
+      "display_name": "Redes Recursivas",
+      "original_name": "Redes Recursivas",
+      "enabled": true,
+      "icon": "ae2:interface",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

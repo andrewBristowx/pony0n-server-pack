@@ -1,0 +1,37 @@
+{
+  "enabled": true,
+  "mod_name": "Create: Connected",
+  "mod_id": "create_connected",
+  "achievements": {
+    "control_chip": {
+      "display_name": "Fabricación precisa",
+      "original_name": "Fabricación precisa",
+      "enabled": true,
+      "icon": "create_connected:control_chip",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pulse_generator_infinite_loop": {
+      "display_name": "Bucle infinito",
+      "original_name": "Bucle infinito",
+      "enabled": true,
+      "icon": "create_connected:incomplete_control_chip",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "overpowered_brake_0": {
+      "display_name": "¡Superpoderoso!",
+      "original_name": "¡Superpoderoso!",
+      "enabled": true,
+      "icon": "create_connected:brake",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

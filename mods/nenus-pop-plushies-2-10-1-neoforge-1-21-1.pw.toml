@@ -1,0 +1,13 @@
+name = "nenus_pop_plushies-2.10.1-neoforge-1.21.1.jar"
+filename = "nenus_pop_plushies-2.10.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9092/702/nenus_pop_plushies-2.10.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "da01f3675f386a338153eceb852d19082fc8cd183e60255728ed17d9ceb8e425"
+
+[update]
+[update.curseforge]
+file-id = 9092702
+project-id = 1426170

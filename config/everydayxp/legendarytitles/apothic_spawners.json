@@ -1,0 +1,157 @@
+{
+  "enabled": true,
+  "mod_name": "Apothic Spawners",
+  "mod_id": "apothic_spawners",
+  "achievements": {
+    "conditions": {
+      "display_name": "Unchecked Spawning",
+      "original_name": "Unchecked Spawning",
+      "enabled": true,
+      "icon": "minecraft:conduit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "noai": {
+      "display_name": "Brain Drain",
+      "original_name": "Brain Drain",
+      "enabled": true,
+      "icon": "minecraft:chorus_fruit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "modifier": {
+      "display_name": "Just a Few Tweaks...",
+      "original_name": "Just a Few Tweaks...",
+      "enabled": true,
+      "icon": "minecraft:sugar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "light": {
+      "display_name": "Who Needs Darkness?",
+      "original_name": "Who Needs Darkness?",
+      "enabled": true,
+      "icon": "minecraft:soul_lantern",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "root": {
+      "display_name": "Apothic Spawners",
+      "original_name": "Apothic Spawners",
+      "enabled": true,
+      "icon": "minecraft:spawner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "redstone": {
+      "display_name": "Adding a Switch",
+      "original_name": "Adding a Switch",
+      "enabled": true,
+      "icon": "minecraft:comparator",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "capturing": {
+      "display_name": "Captured!",
+      "original_name": "Captured!",
+      "enabled": true,
+      "icon": "minecraft:witch_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spawnrange": {
+      "display_name": "Mobs for Miles",
+      "original_name": "Mobs for Miles",
+      "enabled": true,
+      "icon": "minecraft:piston",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ultimate_spawner": {
+      "display_name": "The Ultimate Spawner",
+      "original_name": "The Ultimate Spawner",
+      "enabled": true,
+      "icon": "minecraft:spawner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nearbyents": {
+      "display_name": "Creating a Horde",
+      "original_name": "Creating a Horde",
+      "enabled": true,
+      "icon": "minecraft:ghast_tear",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "spawncount": {
+      "display_name": "Look at the Size of His Spawner!",
+      "original_name": "Look at the Size of His Spawner!",
+      "enabled": true,
+      "icon": "minecraft:fermented_spider_eye",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "playerrange": {
+      "display_name": "Far from the Fight",
+      "original_name": "Far from the Fight",
+      "enabled": true,
+      "icon": "minecraft:prismarine_crystals",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "players": {
+      "display_name": "Factory-Ready",
+      "original_name": "Factory-Ready",
+      "enabled": true,
+      "icon": "minecraft:nether_star",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mindelay": {
+      "display_name": "I Am The Fast",
+      "original_name": "I Am The Fast",
+      "enabled": true,
+      "icon": "minecraft:sugar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "maxdelay": {
+      "display_name": "Time-Warped Spawner",
+      "original_name": "Time-Warped Spawner",
+      "enabled": true,
+      "icon": "minecraft:clock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

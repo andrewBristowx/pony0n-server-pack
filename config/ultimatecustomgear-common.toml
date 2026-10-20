@@ -1,0 +1,12 @@
+#Network / multiplayer settings
+[network]
+	#What to do when a joining client's ultimatecustomgear JSON files
+	#don't match this server's (compared via content hash at connection):
+	#  ENFORCE - disconnect the client with an explanatory message (default,
+	#            guarantees every player sees correct stats/names/recipes)
+	#  WARN    - let them in, log it server-side and warn them in chat
+	#            (their tooltips/names may not match real server values)
+	#  OFF     - skip the check entirely
+	#Only the SERVER's value matters; clients obey what the server sends.
+	#Allowed Values: ENFORCE, WARN, OFF
+	content_handshake_mode = "ENFORCE"

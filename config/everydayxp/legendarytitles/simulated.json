@@ -1,0 +1,137 @@
+{
+  "enabled": true,
+  "mod_name": "Create Simulated",
+  "mod_id": "simulated",
+  "achievements": {
+    "got_a_grip": {
+      "display_name": "Got a Grip!",
+      "original_name": "Got a Grip!",
+      "enabled": true,
+      "icon": "simulated:iron_handle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "convoluted_circumvolutions": {
+      "display_name": "Convoluted Circumvolutions",
+      "original_name": "Convoluted Circumvolutions",
+      "enabled": true,
+      "icon": "simulated:gyroscopic_mechanism",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "call_of_the_void": {
+      "display_name": "Call of the Void",
+      "original_name": "Call of the Void",
+      "enabled": true,
+      "icon": "minecraft:end_portal_frame",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "applied_kinematics": {
+      "display_name": "Applied Kinematics",
+      "original_name": "Applied Kinematics",
+      "enabled": true,
+      "icon": "simulated:physics_assembler",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "that_should_do_for_now": {
+      "display_name": "That Should Do For Now",
+      "original_name": "That Should Do For Now",
+      "enabled": true,
+      "icon": "simulated:red_portable_engine",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "you_spin_me_right_round": {
+      "display_name": "You Spin Me Right Round",
+      "original_name": "You Spin Me Right Round",
+      "enabled": true,
+      "icon": "simulated:swivel_bearing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "must_come_up": {
+      "display_name": "...Must Come Up",
+      "original_name": "...Must Come Up",
+      "enabled": true,
+      "icon": "simulated:spring",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "far_from_home": {
+      "display_name": "Far From Home",
+      "original_name": "Far From Home",
+      "enabled": true,
+      "icon": "simulated:navigation_table",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "can_we_get_much_higher": {
+      "display_name": "Can We Get Much Higher?",
+      "original_name": "Can We Get Much Higher?",
+      "enabled": true,
+      "icon": "simulated:altitude_sensor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "i_paid_for_the_whole_typewriter": {
+      "display_name": "I Paid for the Whole Typewriter",
+      "original_name": "I Paid for the Whole Typewriter",
+      "enabled": true,
+      "icon": "simulated:linked_typewriter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "a_calculated_connection": {
+      "display_name": "A Calculated Connection",
+      "original_name": "A Calculated Connection",
+      "enabled": true,
+      "icon": "simulated:docking_connector",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "thataway": {
+      "display_name": "Thataway!",
+      "original_name": "Thataway!",
+      "enabled": true,
+      "icon": "simulated:navigation_table",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "i_declare_thee": {
+      "display_name": "I Declare Thee...",
+      "original_name": "I Declare Thee...",
+      "enabled": true,
+      "icon": "simulated:white_nameplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

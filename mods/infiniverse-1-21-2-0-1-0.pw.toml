@@ -1,0 +1,13 @@
+name = "infiniverse-1.21-2.0.1.0.jar"
+filename = "infiniverse-1.21-2.0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/5486/311/infiniverse-1.21-2.0.1.0.jar"
+hash-format = "sha256"
+hash = "ca0f8b3952120ec566d91d4aca79c9c9175309329c69b925507e9d627684bd5b"
+
+[update]
+[update.curseforge]
+file-id = 5486311
+project-id = 568341

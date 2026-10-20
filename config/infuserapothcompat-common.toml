@@ -1,0 +1,3 @@
+[general]
+	#Allow cursed enchantments in the Enchanting Infuser without requiring a Treasure Shelf
+	allowCursedEnchantments = false

@@ -1,0 +1,13 @@
+name = "growthacceleratortiers-2.0.1+1.21.1.jar"
+filename = "growthacceleratortiers-2.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9212/851/growthacceleratortiers-2.0.1%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "79b2c075cefb4bb3bd615970f396ad7aac648239aa6cc34b4ab6dfd265f24342"
+
+[update]
+[update.curseforge]
+file-id = 9212851
+project-id = 1316818

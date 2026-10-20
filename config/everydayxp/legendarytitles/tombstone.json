@@ -1,0 +1,1477 @@
+{
+  "enabled": true,
+  "mod_name": "Corail Tombstone",
+  "mod_id": "tombstone",
+  "achievements": {
+    "adventure/neighborhood_brawl": {
+      "display_name": "Pelea en el vecindario",
+      "original_name": "Pelea en el vecindario",
+      "enabled": true,
+      "icon": "minecraft:wooden_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/pray_of_protection": {
+      "display_name": "Oración de protección",
+      "original_name": "Oración de protección",
+      "enabled": true,
+      "icon": "tombstone:advancement_9",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/stolen_magic": {
+      "display_name": "Magia robada",
+      "original_name": "Magia robada",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/tomb_raider": {
+      "display_name": "Saqueador de tumbas",
+      "original_name": "Saqueador de tumbas",
+      "enabled": true,
+      "icon": "minecraft:iron_shovel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/springbloom_plant_1_seed": {
+      "display_name": "Primer brote",
+      "original_name": "Primer brote",
+      "enabled": true,
+      "icon": "minecraft:wheat_seeds",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_wololo": {
+      "display_name": "Oveja arcoíris",
+      "original_name": "Oveja arcoíris",
+      "enabled": true,
+      "icon": "minecraft:magenta_wool",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/prevent_death_voodoo_poppet": {
+      "display_name": "No hoy, muerte",
+      "original_name": "No hoy, muerte",
+      "enabled": true,
+      "icon": "tombstone:voodoo_poppet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/subterfuge_and_discretion": {
+      "display_name": "Subterfugio y discreción",
+      "original_name": "Subterfugio y discreción",
+      "enabled": true,
+      "icon": "tombstone:advancement_8",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/mysterious_gift": {
+      "display_name": "Regalo misterioso",
+      "original_name": "Regalo misterioso",
+      "enabled": true,
+      "icon": "tombstone:christmas_gift",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_home": {
+      "display_name": "Hogar dulce hogar",
+      "original_name": "Hogar dulce hogar",
+      "enabled": true,
+      "icon": "tombstone:tablet_of_home",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_lost_tablet": {
+      "display_name": "Una aventura te espera",
+      "original_name": "Una aventura te espera",
+      "enabled": true,
+      "icon": "tombstone:lost_tablet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_impregnator": {
+      "display_name": "Impregnador maestro",
+      "original_name": "Impregnador maestro",
+      "enabled": true,
+      "icon": "tombstone:book_of_magic_impregnation",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/spring_bloom": {
+      "display_name": "Floración primaveral",
+      "original_name": "Floración primaveral",
+      "enabled": true,
+      "icon": "minecraft:peony",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_strange_scroll": {
+      "display_name": "Ni siquiera de doble cara",
+      "original_name": "Ni siquiera de doble cara",
+      "enabled": true,
+      "icon": "tombstone:strange_scroll",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/repairer": {
+      "display_name": "Reparador",
+      "original_name": "Reparador",
+      "enabled": true,
+      "icon": "tombstone:book_of_repairing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_siphoner": {
+      "display_name": "Sifonador maestro",
+      "original_name": "Sifonador maestro",
+      "enabled": true,
+      "icon": "minecraft:splash_potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_scribe": {
+      "display_name": "Escritura mágica",
+      "original_name": "Escritura mágica",
+      "enabled": true,
+      "icon": "tombstone:book_of_scribe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/christmas": {
+      "display_name": "Navidad",
+      "original_name": "Navidad",
+      "enabled": true,
+      "icon": "tombstone:christmas_gift",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/trade_10_lollipop": {
+      "display_name": "Intercambios fáciles",
+      "original_name": "Intercambios fáciles",
+      "enabled": true,
+      "icon": "tombstone:lollipop",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/prayer_of_empathy": {
+      "display_name": "Oración de la empatía",
+      "original_name": "Oración de la empatía",
+      "enabled": true,
+      "icon": "minecraft:cat_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_grave_plate": {
+      "display_name": "Inscripción de tumba",
+      "original_name": "Inscripción de tumba",
+      "enabled": true,
+      "icon": "tombstone:grave_plate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_fishing_rod": {
+      "display_name": "Un tiempo para la aventura",
+      "original_name": "Un tiempo para la aventura",
+      "enabled": true,
+      "icon": "tombstone:fishing_rod_of_misadventure",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_lost_tablet": {
+      "display_name": "El viaje termina pero la aventura comienza",
+      "original_name": "El viaje termina pero la aventura comienza",
+      "enabled": true,
+      "icon": "tombstone:lost_tablet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/first_grave": {
+      "display_name": "Tu primera tumba",
+      "original_name": "Tu primera tumba",
+      "enabled": true,
+      "icon": "tombstone:decorative_grave_normal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/magic_siphoner": {
+      "display_name": "Sifonador mágico",
+      "original_name": "Sifonador mágico",
+      "enabled": true,
+      "icon": "minecraft:lingering_potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/genocide": {
+      "display_name": "Genocidio",
+      "original_name": "Genocidio",
+      "enabled": true,
+      "icon": "minecraft:golden_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/almost_unkillable": {
+      "display_name": "Casi invencible",
+      "original_name": "Casi invencible",
+      "enabled": true,
+      "icon": "tombstone:decorative_subaraki_grave",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/candy_sick": {
+      "display_name": "Enfermedad de caramelo",
+      "original_name": "Enfermedad de caramelo",
+      "enabled": true,
+      "icon": "tombstone:lollipop",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_knowledge": {
+      "display_name": "Las grandes mentes piensan igual",
+      "original_name": "Las grandes mentes piensan igual",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_knowledge",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/drink_potion_of_earthly_garden": {
+      "display_name": "La tierra es demasiado vieja para ser ridiculizada",
+      "original_name": "La tierra es demasiado vieja para ser ridiculizada",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_recycler": {
+      "display_name": "Reciclador maestro",
+      "original_name": "Reciclador maestro",
+      "enabled": true,
+      "icon": "tombstone:book_of_recycling",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_lost_tablet_treasure": {
+      "display_name": "El tesoro está al alcance",
+      "original_name": "El tesoro está al alcance",
+      "enabled": true,
+      "icon": "tombstone:lost_tablet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/strong_or_careful": {
+      "display_name": "Fuerte o cuidadoso",
+      "original_name": "Fuerte o cuidadoso",
+      "enabled": true,
+      "icon": "tombstone:decorative_subaraki_grave",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/funeral_theft": {
+      "display_name": "Robo de funerales",
+      "original_name": "Robo de funerales",
+      "enabled": true,
+      "icon": "minecraft:wooden_shovel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/floral_trading": {
+      "display_name": "Comercio floral",
+      "original_name": "Comercio floral",
+      "enabled": true,
+      "icon": "minecraft:flower_pot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_feather_fall": {
+      "display_name": "Como un pájaro",
+      "original_name": "Como un pájaro",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_feather_fall",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/trade_50_lollipop": {
+      "display_name": "Negocios prometedores",
+      "original_name": "Negocios prometedores",
+      "enabled": true,
+      "icon": "tombstone:lollipop",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/impregnator": {
+      "display_name": "Impregnador",
+      "original_name": "Impregnador",
+      "enabled": true,
+      "icon": "tombstone:book_of_magic_impregnation",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/ancient_knowledge": {
+      "display_name": "Conocimiento antiguo",
+      "original_name": "Conocimiento antiguo",
+      "enabled": true,
+      "icon": "tombstone:advancement_5",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/trade_lollipop": {
+      "display_name": "Paleta comercializable",
+      "original_name": "Paleta comercializable",
+      "enabled": true,
+      "icon": "tombstone:lollipop",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_disenchantment": {
+      "display_name": "Desencantamiento mágico",
+      "original_name": "Desencantamiento mágico",
+      "enabled": true,
+      "icon": "tombstone:book_of_disenchantment",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_soulbound": {
+      "display_name": "Ligado de alma",
+      "original_name": "Ligado de alma",
+      "enabled": true,
+      "icon": "tombstone:book_of_soulbound",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/guardian_of_eternity": {
+      "display_name": "Guardián de la eternidad",
+      "original_name": "Guardián de la eternidad",
+      "enabled": true,
+      "icon": "tombstone:decorative_grave_original",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_ally_enhancer": {
+      "display_name": "Mejorador de aliados maestro",
+      "original_name": "Mejorador de aliados maestro",
+      "enabled": true,
+      "icon": "tombstone:magic_scroll",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/drink_earthly_garden": {
+      "display_name": "Esencia del jardín",
+      "original_name": "Esencia del jardín",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/knowledge_wasted": {
+      "display_name": "Conocimiento desperdiciado",
+      "original_name": "Conocimiento desperdiciado",
+      "enabled": true,
+      "icon": "minecraft:writable_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/choose_knowledge": {
+      "display_name": "El conocimiento eleva el alma",
+      "original_name": "El conocimiento eleva el alma",
+      "enabled": true,
+      "icon": "minecraft:lantern",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/command_undead_servant": {
+      "display_name": "Rise and Rest",
+      "original_name": "Rise and Rest",
+      "enabled": true,
+      "icon": "tombstone:bone_scepter",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/great_protector": {
+      "display_name": "Gran protector",
+      "original_name": "Gran protector",
+      "enabled": true,
+      "icon": "tombstone:advancement_9",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/chain_death": {
+      "display_name": "Cadena de muertes",
+      "original_name": "Cadena de muertes",
+      "enabled": true,
+      "icon": "tombstone:decorative_grave_cross",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_familiar_receptacle": {
+      "display_name": "Tu primer receptáculo",
+      "original_name": "Tu primer receptáculo",
+      "enabled": true,
+      "icon": "tombstone:receptacle_of_familiar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/exorcism": {
+      "display_name": "Qué excelente día para un exorcismo",
+      "original_name": "Qué excelente día para un exorcismo",
+      "enabled": true,
+      "icon": "tombstone:advancement_4",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_tomb_raider": {
+      "display_name": "Saqueador de tumbas maestro",
+      "original_name": "Saqueador de tumbas maestro",
+      "enabled": true,
+      "icon": "minecraft:golden_shovel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/trade_grave_guardian": {
+      "display_name": "Negociando con la muerte",
+      "original_name": "Negociando con la muerte",
+      "enabled": true,
+      "icon": "tombstone:essence_of_undeath",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_of_zombify": {
+      "display_name": "Maestro de la zombificación",
+      "original_name": "Maestro de la zombificación",
+      "enabled": true,
+      "icon": "tombstone:advancement_4",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_of_escape": {
+      "display_name": "Maestro de la fuga",
+      "original_name": "Maestro de la fuga",
+      "enabled": true,
+      "icon": "tombstone:advancement_8",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/impregnated_bone_needle": {
+      "display_name": "Recolección de esencia",
+      "original_name": "Recolección de esencia",
+      "enabled": true,
+      "icon": "tombstone:bone_needle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/vanishing": {
+      "display_name": "Desaparición",
+      "original_name": "Desaparición",
+      "enabled": true,
+      "icon": "tombstone:dust_of_vanishing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/ambush": {
+      "display_name": "Emboscada",
+      "original_name": "Emboscada",
+      "enabled": true,
+      "icon": "minecraft:wooden_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_imbued_arrow": {
+      "display_name": "Flecha imbuida",
+      "original_name": "Flecha imbuida",
+      "enabled": true,
+      "icon": "minecraft:tipped_arrow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/bone_crusher": {
+      "display_name": "Triturador de huesos",
+      "original_name": "Triturador de huesos",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_lost_tablet_village": {
+      "display_name": "Un nuevo hogar",
+      "original_name": "Un nuevo hogar",
+      "enabled": true,
+      "icon": "tombstone:lost_tablet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/engrave_grave_plate": {
+      "display_name": "¿Quién es este tipo?",
+      "original_name": "¿Quién es este tipo?",
+      "enabled": true,
+      "icon": "minecraft:anvil",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_smoke_ball": {
+      "display_name": "No es carbólico",
+      "original_name": "No es carbólico",
+      "enabled": true,
+      "icon": "tombstone:smoke_ball",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/impregnated_receptacle": {
+      "display_name": "Vinculado por esencia",
+      "original_name": "Vinculado por esencia",
+      "enabled": true,
+      "icon": "tombstone:bone_needle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/new_path": {
+      "display_name": "Nuevo camino",
+      "original_name": "Nuevo camino",
+      "enabled": true,
+      "icon": "tombstone:book_of_oblivion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_aquatic_life": {
+      "display_name": "Mundo acuático",
+      "original_name": "Mundo acuático",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_aquatic_life",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/engrave_decorative_grave": {
+      "display_name": "Inolvidable",
+      "original_name": "Inolvidable",
+      "enabled": true,
+      "icon": "tombstone:grave_plate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_spectral_potion": {
+      "display_name": "La alquimia del tiempo en el alma",
+      "original_name": "La alquimia del tiempo en el alma",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_magic_scroll": {
+      "display_name": "Escritura mágica",
+      "original_name": "Escritura mágica",
+      "enabled": true,
+      "icon": "tombstone:strange_scroll",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/drink_me_eat_me": {
+      "display_name": "¡Bébeme! ¡Cómeme!",
+      "original_name": "¡Bébeme! ¡Cómeme!",
+      "enabled": true,
+      "icon": "minecraft:potion",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/discreet_search": {
+      "display_name": "Búsqueda discreta",
+      "original_name": "Búsqueda discreta",
+      "enabled": true,
+      "icon": "tombstone:decorative_grave_original",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/enchant_grave_key": {
+      "display_name": "La llave más útil",
+      "original_name": "La llave más útil",
+      "enabled": true,
+      "icon": "tombstone:grave_key",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/scribe": {
+      "display_name": "Escriba",
+      "original_name": "Escriba",
+      "enabled": true,
+      "icon": "tombstone:book_of_scribe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/ashes_and_bones": {
+      "display_name": "Huesos y cenizas",
+      "original_name": "Huesos y cenizas",
+      "enabled": true,
+      "icon": "minecraft:bone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/enchant_voodoo_poppet": {
+      "display_name": "Ni siquiera le tengo miedo a la muerte",
+      "original_name": "Ni siquiera le tengo miedo a la muerte",
+      "enabled": true,
+      "icon": "tombstone:voodoo_poppet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_strange_tablet": {
+      "display_name": "No de chocolate",
+      "original_name": "No de chocolate",
+      "enabled": true,
+      "icon": "tombstone:strange_tablet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_mercy": {
+      "display_name": "Un alma que se respeta a sí misma",
+      "original_name": "Un alma que se respeta a sí misma",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_mercy",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_frost_resistance": {
+      "display_name": "Caminata por nieve en polvo",
+      "original_name": "Caminata por nieve en polvo",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_frost_resistance",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/free_soul": {
+      "display_name": "Liberación",
+      "original_name": "Liberación",
+      "enabled": true,
+      "icon": "tombstone:receptacle_of_soul",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/ally_enhancer": {
+      "display_name": "Mejorador de aliados",
+      "original_name": "Mejorador de aliados",
+      "enabled": true,
+      "icon": "tombstone:magic_scroll",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_unstable_intangibility": {
+      "display_name": "Ser o no ser",
+      "original_name": "Ser o no ser",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_unstable_intangibility",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_magic_impregnation": {
+      "display_name": "Impregnación mágica",
+      "original_name": "Impregnación mágica",
+      "enabled": true,
+      "icon": "tombstone:book_of_magic_impregnation",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_grave_dust": {
+      "display_name": "Un extraño polvo de tumba",
+      "original_name": "Un extraño polvo de tumba",
+      "enabled": true,
+      "icon": "tombstone:grave_dust",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_repairing": {
+      "display_name": "Reparación mágica",
+      "original_name": "Reparación mágica",
+      "enabled": true,
+      "icon": "tombstone:book_of_repairing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_lightning_resistance": {
+      "display_name": "Viajero pararrayos",
+      "original_name": "Viajero pararrayos",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_lightning_resistance",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/enchant_fishing_rod": {
+      "display_name": "Encantado para la desventura",
+      "original_name": "Encantado para la desventura",
+      "enabled": true,
+      "icon": "tombstone:fishing_rod_of_misadventure",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_lost_tablet_exploration": {
+      "display_name": "Exploración de tierras",
+      "original_name": "Exploración de tierras",
+      "enabled": true,
+      "icon": "tombstone:lost_tablet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/versatility": {
+      "display_name": "Versatilidad",
+      "original_name": "Versatilidad",
+      "enabled": true,
+      "icon": "minecraft:soul_lantern",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/prayer_of_undead": {
+      "display_name": "Oración de no-muertos",
+      "original_name": "Oración de no-muertos",
+      "enabled": true,
+      "icon": "minecraft:wither_skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/soul_magic": {
+      "display_name": "Magia del alma",
+      "original_name": "Magia del alma",
+      "enabled": true,
+      "icon": "tombstone:advancement_5",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/consume_soul": {
+      "display_name": "Deja que la magia suceda",
+      "original_name": "Deja que la magia suceda",
+      "enabled": true,
+      "icon": "tombstone:advancement_5",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/silent_ceremony": {
+      "display_name": "Ceremonia silenciosa",
+      "original_name": "Ceremonia silenciosa",
+      "enabled": true,
+      "icon": "tombstone:advancement_17",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/cancel_ghostly_shape": {
+      "display_name": "Aquí vienen",
+      "original_name": "Aquí vienen",
+      "enabled": true,
+      "icon": "tombstone:advancement_1",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/strong_undead": {
+      "display_name": "No-muerto fuerte",
+      "original_name": "No-muerto fuerte",
+      "enabled": true,
+      "icon": "minecraft:wither_rose",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/fortuitous_militia": {
+      "display_name": "Milicia afortunada",
+      "original_name": "Milicia afortunada",
+      "enabled": true,
+      "icon": "minecraft:iron_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/first_knowledge": {
+      "display_name": "Conocimiento de la muerte",
+      "original_name": "Conocimiento de la muerte",
+      "enabled": true,
+      "icon": "tombstone:advancement_0",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/mutual_aid": {
+      "display_name": "Ayuda mutua",
+      "original_name": "Ayuda mutua",
+      "enabled": true,
+      "icon": "tombstone:magic_scroll",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_disenchanter": {
+      "display_name": "Desencantador maestro",
+      "original_name": "Desencantador maestro",
+      "enabled": true,
+      "icon": "tombstone:book_of_disenchantment",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/villager_gift": {
+      "display_name": "Entrega de regalo",
+      "original_name": "Entrega de regalo",
+      "enabled": true,
+      "icon": "tombstone:villager_gift",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_decorative_grave": {
+      "display_name": "Un pequeño cementerio",
+      "original_name": "Un pequeño cementerio",
+      "enabled": true,
+      "icon": "tombstone:decorative_grave_simple",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_recall": {
+      "display_name": "Tumba vinculada",
+      "original_name": "Tumba vinculada",
+      "enabled": true,
+      "icon": "tombstone:tablet_of_recall",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/color_smoke_ball": {
+      "display_name": "Todos los colores se pondrán de acuerdo en la oscuridad",
+      "original_name": "Todos los colores se pondrán de acuerdo en la oscuridad",
+      "enabled": true,
+      "icon": "tombstone:smoke_ball",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/springbloom_plant_10_seed": {
+      "display_name": "Pulgar verde",
+      "original_name": "Pulgar verde",
+      "enabled": true,
+      "icon": "minecraft:beetroot_seeds",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/disenchanter": {
+      "display_name": "Desencantador",
+      "original_name": "Desencantador",
+      "enabled": true,
+      "icon": "tombstone:book_of_disenchantment",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_recycling": {
+      "display_name": "Reciclaje mágico",
+      "original_name": "Reciclaje mágico",
+      "enabled": true,
+      "icon": "tombstone:book_of_recycling",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/village_defender": {
+      "display_name": "Defensor del pueblo",
+      "original_name": "Defensor del pueblo",
+      "enabled": true,
+      "icon": "minecraft:golden_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/thorveil_awakens": {
+      "display_name": "El velo de espinas despierta",
+      "original_name": "El velo de espinas despierta",
+      "enabled": true,
+      "icon": "tombstone:thornveil",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/teleport_to_grave": {
+      "display_name": "Un regreso rápido",
+      "original_name": "Un regreso rápido",
+      "enabled": true,
+      "icon": "tombstone:advancement_2",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/easy_opening": {
+      "display_name": "Apertura fácil",
+      "original_name": "Apertura fácil",
+      "enabled": true,
+      "icon": "tombstone:decorative_grave_simple",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/expert_tasting": {
+      "display_name": "Cata experta",
+      "original_name": "Cata experta",
+      "enabled": true,
+      "icon": "tombstone:lollipop",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_preservation": {
+      "display_name": "La muerte no será suficiente",
+      "original_name": "La muerte no será suficiente",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_preservation",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_cupidity": {
+      "display_name": "La codicia puede llevar a la pérdida",
+      "original_name": "La codicia puede llevar a la pérdida",
+      "enabled": true,
+      "icon": "tombstone:tablet_of_cupidity",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/trade_lollipop_for_essence": {
+      "display_name": "Esencia de no-muerto",
+      "original_name": "Esencia de no-muerto",
+      "enabled": true,
+      "icon": "tombstone:essence_of_undeath",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_scribe": {
+      "display_name": "Escriba maestro",
+      "original_name": "Escriba maestro",
+      "enabled": true,
+      "icon": "tombstone:book_of_scribe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/springbloom_plant_50_seed": {
+      "display_name": "Jardinero de la renovación",
+      "original_name": "Jardinero de la renovación",
+      "enabled": true,
+      "icon": "minecraft:torchflower_seeds",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_assistance": {
+      "display_name": "Leeroy ha vuelto",
+      "original_name": "Leeroy ha vuelto",
+      "enabled": true,
+      "icon": "tombstone:tablet_of_assistance",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/mastery_2": {
+      "display_name": "Maestría 2",
+      "original_name": "Maestría 2",
+      "enabled": true,
+      "icon": "tombstone:impregnated_diamond",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/mastery_1": {
+      "display_name": "Maestría 1",
+      "original_name": "Maestría 1",
+      "enabled": true,
+      "icon": "tombstone:impregnated_diamond",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/soul_eater": {
+      "display_name": "Come almas",
+      "original_name": "Come almas",
+      "enabled": true,
+      "icon": "tombstone:advancement_5",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_true_sight": {
+      "display_name": "Lo veo claro ahora",
+      "original_name": "Lo veo claro ahora",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_true_sight",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/ancient_fishing_rod": {
+      "display_name": "Caña de pescar antigua",
+      "original_name": "Caña de pescar antigua",
+      "enabled": true,
+      "icon": "tombstone:fishing_rod_of_misadventure",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/first_pray": {
+      "display_name": "Primera oración",
+      "original_name": "Primera oración",
+      "enabled": true,
+      "icon": "tombstone:advancement_3",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/eat_lollipop": {
+      "display_name": "No está tan mal",
+      "original_name": "No está tan mal",
+      "enabled": true,
+      "icon": "tombstone:lollipop",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/thornveil_spawn": {
+      "display_name": "Floración mística",
+      "original_name": "Floración mística",
+      "enabled": true,
+      "icon": "tombstone:decorative_grave_original",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/recycler": {
+      "display_name": "Reciclador",
+      "original_name": "Reciclador",
+      "enabled": true,
+      "icon": "tombstone:book_of_recycling",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_voodoo_poppet": {
+      "display_name": "De vuelta a la infancia",
+      "original_name": "De vuelta a la infancia",
+      "enabled": true,
+      "icon": "tombstone:voodoo_poppet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_magic_tablet": {
+      "display_name": "¿Dónde está el bolígrafo de piedra?",
+      "original_name": "¿Dónde está el bolígrafo de piedra?",
+      "enabled": true,
+      "icon": "tombstone:strange_tablet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/create_grave_marble": {
+      "display_name": "Blanco o negro",
+      "original_name": "Blanco o negro",
+      "enabled": true,
+      "icon": "tombstone:dark_marble",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/servant_of_rest": {
+      "display_name": "Siervo del descanso",
+      "original_name": "Siervo del descanso",
+      "enabled": true,
+      "icon": "tombstone:decorative_tombstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/talk_grave_guardian": {
+      "display_name": "Encuentro extraño",
+      "original_name": "Encuentro extraño",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/capture_soul": {
+      "display_name": "Prisión de almas",
+      "original_name": "Prisión de almas",
+      "enabled": true,
+      "icon": "tombstone:receptacle_of_familiar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/combine_in_inventory": {
+      "display_name": "Aplicación rápida",
+      "original_name": "Aplicación rápida",
+      "enabled": true,
+      "icon": "tombstone:advancement_13",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/zombify": {
+      "display_name": "Zombificación",
+      "original_name": "Zombificación",
+      "enabled": true,
+      "icon": "tombstone:advancement_4",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/choose_grave_type": {
+      "display_name": "Muere con estilo",
+      "original_name": "Muere con estilo",
+      "enabled": true,
+      "icon": "tombstone:decorative_grave_cross",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/get_essence_from_thornveil": {
+      "display_name": "Corazón de la tumba",
+      "original_name": "Corazón de la tumba",
+      "enabled": true,
+      "icon": "tombstone:essence_of_undeath",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/find_ancient_tablet": {
+      "display_name": "Tesoro del pasado",
+      "original_name": "Tesoro del pasado",
+      "enabled": true,
+      "icon": "tombstone:tablet_of_recall",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_purification": {
+      "display_name": "Una pequeña limpieza es necesaria",
+      "original_name": "Una pequeña limpieza es necesaria",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_purification",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_of_exorcism": {
+      "display_name": "Maestro del exorcismo",
+      "original_name": "Maestro del exorcismo",
+      "enabled": true,
+      "icon": "tombstone:advancement_4",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/wololo": {
+      "display_name": "Una oveja colorida sigue siendo una oveja",
+      "original_name": "Una oveja colorida sigue siendo una oveja",
+      "enabled": true,
+      "icon": "minecraft:white_wool",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_guard": {
+      "display_name": "Guardián espectral",
+      "original_name": "Guardián espectral",
+      "enabled": true,
+      "icon": "tombstone:tablet_of_guard",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/master_repairer": {
+      "display_name": "Reparador maestro",
+      "original_name": "Reparador maestro",
+      "enabled": true,
+      "icon": "tombstone:book_of_repairing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "event/halloween": {
+      "display_name": "Halloween",
+      "original_name": "Halloween",
+      "enabled": true,
+      "icon": "tombstone:advancement_6",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/crime_in_town": {
+      "display_name": "Crimen en la ciudad",
+      "original_name": "Crimen en la ciudad",
+      "enabled": true,
+      "icon": "minecraft:iron_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/strange_mount": {
+      "display_name": "Montura extraña",
+      "original_name": "Montura extraña",
+      "enabled": true,
+      "icon": "tombstone:advancement_10",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/use_reach": {
+      "display_name": "El largo brazo de la ley",
+      "original_name": "El largo brazo de la ley",
+      "enabled": true,
+      "icon": "tombstone:scroll_of_reach",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "adventure/revive_familiar": {
+      "display_name": "Vinculado para siempre",
+      "original_name": "Vinculado para siempre",
+      "enabled": true,
+      "icon": "tombstone:advancement_7",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

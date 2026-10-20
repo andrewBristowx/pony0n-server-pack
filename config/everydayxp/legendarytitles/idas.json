@@ -1,0 +1,237 @@
+{
+  "enabled": true,
+  "mod_name": "Integrated Dungeons and Structures",
+  "mod_id": "idas",
+  "achievements": {
+    "sunken_ship": {
+      "display_name": "A Sunken Ship",
+      "original_name": "A Sunken Ship",
+      "enabled": true,
+      "icon": "minecraft:spyglass",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "apothecary_abode": {
+      "display_name": "The Apothecary\u0027s Abode",
+      "original_name": "The Apothecary\u0027s Abode",
+      "enabled": true,
+      "icon": "minecraft:crimson_fungus",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "desert_pyramid": {
+      "display_name": "The Desert Pyramid",
+      "original_name": "The Desert Pyramid",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "archmages_tower": {
+      "display_name": "Archmage\u0027s Tower",
+      "original_name": "Archmage\u0027s Tower",
+      "enabled": true,
+      "icon": "minecraft:amethyst_block",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pillager_fortress": {
+      "display_name": "Pillager Fortress",
+      "original_name": "Pillager Fortress",
+      "enabled": true,
+      "icon": "minecraft:totem_of_undying",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "labyrinth": {
+      "display_name": "Labyrinth of the Serpent",
+      "original_name": "Labyrinth of the Serpent",
+      "enabled": true,
+      "icon": "minecraft:chiseled_sandstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hunters_cabin": {
+      "display_name": "Hunter\u0027s Cabin",
+      "original_name": "Hunter\u0027s Cabin",
+      "enabled": true,
+      "icon": "minecraft:leather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "pumpkin_cafe": {
+      "display_name": "The Pumpkin Cafe",
+      "original_name": "The Pumpkin Cafe",
+      "enabled": true,
+      "icon": "minecraft:pumpkin_pie",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bearclaw_inn": {
+      "display_name": "The Bearclaw Inn",
+      "original_name": "The Bearclaw Inn",
+      "enabled": true,
+      "icon": "minecraft:honey_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enchantingtower": {
+      "display_name": "Enchanting Tower",
+      "original_name": "Enchanting Tower",
+      "enabled": true,
+      "icon": "minecraft:lapis_lazuli",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "necromancers_spire": {
+      "display_name": "The Necromancer\u0027s Spire",
+      "original_name": "The Necromancer\u0027s Spire",
+      "enabled": true,
+      "icon": "minecraft:skeleton_skull",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tinkers_workshop": {
+      "display_name": "Tinker\u0027s Workshop",
+      "original_name": "Tinker\u0027s Workshop",
+      "enabled": true,
+      "icon": "create:brass_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "witches_treestump": {
+      "display_name": "A Witch\u0027s Stump",
+      "original_name": "A Witch\u0027s Stump",
+      "enabled": true,
+      "icon": "minecraft:nether_wart",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ancient_mines": {
+      "display_name": "Ancient Mines",
+      "original_name": "Ancient Mines",
+      "enabled": true,
+      "icon": "minecraft:netherite_axe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nexus": {
+      "display_name": "The Nexus",
+      "original_name": "The Nexus",
+      "enabled": true,
+      "icon": "minecraft:flint_and_steel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "redhorn_guild": {
+      "display_name": "The Redhorn Guild",
+      "original_name": "The Redhorn Guild",
+      "enabled": true,
+      "icon": "minecraft:wooden_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "wizardtower": {
+      "display_name": "Wizard Tower",
+      "original_name": "Wizard Tower",
+      "enabled": true,
+      "icon": "create:rose_quartz",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ruins_of_the_deep": {
+      "display_name": "Ruins of the Deep",
+      "original_name": "Ruins of the Deep",
+      "enabled": true,
+      "icon": "minecraft:heart_of_the_sea",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "tinkers_citadel": {
+      "display_name": "Tinker\u0027s Citadel",
+      "original_name": "Tinker\u0027s Citadel",
+      "enabled": true,
+      "icon": "create:wrench",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "fishermans_lodge": {
+      "display_name": "Fisherman\u0027s Lodge",
+      "original_name": "Fisherman\u0027s Lodge",
+      "enabled": true,
+      "icon": "minecraft:cod",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "castle": {
+      "display_name": "Castle",
+      "original_name": "Castle",
+      "enabled": true,
+      "icon": "minecraft:lodestone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "winter_wagon": {
+      "display_name": "Winter Wagon",
+      "original_name": "Winter Wagon",
+      "enabled": true,
+      "icon": "supplementaries:present_red",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "dread_citadel": {
+      "display_name": "Dread Citadel",
+      "original_name": "Dread Citadel",
+      "enabled": true,
+      "icon": "minecraft:blue_ice",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

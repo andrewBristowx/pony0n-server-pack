@@ -1,0 +1,67 @@
+{
+  "enabled": true,
+  "mod_name": "Construction Sticks",
+  "mod_id": "constructionstick",
+  "achievements": {
+    "template_replacement": {
+      "display_name": "Replacement Stick Template",
+      "original_name": "Replacement Stick Template",
+      "enabled": true,
+      "icon": "constructionstick:template_replacement",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "iron_stick": {
+      "display_name": "Sticky Situation",
+      "original_name": "Sticky Situation",
+      "enabled": true,
+      "icon": "constructionstick:iron_stick",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "template_unbreakable": {
+      "display_name": "Unbreakable Template",
+      "original_name": "Unbreakable Template",
+      "enabled": true,
+      "icon": "constructionstick:template_unbreakable",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "template_battery": {
+      "display_name": "Battery Template",
+      "original_name": "Battery Template",
+      "enabled": true,
+      "icon": "constructionstick:template_battery",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "template_destruction": {
+      "display_name": "Destruction Stick Template",
+      "original_name": "Destruction Stick Template",
+      "enabled": true,
+      "icon": "constructionstick:template_destruction",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "template_angel": {
+      "display_name": "Angel Stick Template",
+      "original_name": "Angel Stick Template",
+      "enabled": true,
+      "icon": "constructionstick:template_angel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

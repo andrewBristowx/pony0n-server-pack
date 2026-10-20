@@ -1,0 +1,13 @@
+name = "Fancy Tab Sections"
+filename = "fancytabsections-6.2.1-NEOFORGE-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/K0NYarUG/versions/Nfh3zmbE/fancytabsections-6.2.1-NEOFORGE-1.21.1.jar"
+hash-format = "sha512"
+hash = "2a1a33794e7677f9bf259e3ef38bfaa895fbaf86491125628f27d0f3964e70fdc1a10c39829fb0453500f15b328f7a2a3ce4a347d67ceb7ee56ca6f06ef7d6cc"
+
+[update]
+[update.modrinth]
+mod-id = "K0NYarUG"
+version = "Nfh3zmbE"

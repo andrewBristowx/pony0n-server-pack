@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "mod_name": "Mekanism: Tools",
+  "mod_id": "mekanismtools",
+  "achievements": {
+    "paxel": {
+      "display_name": "Multi-Herramienta",
+      "original_name": "Multi-Herramienta",
+      "enabled": true,
+      "icon": "mekanismtools:diamond_paxel",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "rewards": [
+    {
+      "item": "minecraft:cobblestone",
+      "count": 16
+    },
+    {
+      "item": "minecraft:bread",
+      "count": 8
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 2
+    },
+    {
+      "item": "minecraft:coal",
+      "count": 16
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "count": 2
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "count": 8
+    },
+    {
+      "item": "minecraft:diamond",
+      "count": 1
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "count": 2
+    },
+    {
+      "item": "minecraft:emerald",
+      "count": 4
+    },
+    {
+      "item": "minecraft:iron_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:gold_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:diamond",
+      "count": 3
+    },
+    {
+      "item": "minecraft:obsidian",
+      "count": 8
+    },
+    {
+      "item": "minecraft:golden_apple",
+      "count": 4
+    },
+    {
+      "item": "minecraft:ancient_debris",
+      "count": 1
+    },
+    {
+      "item": "minecraft:diamond_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "count": 2
+    },
+    {
+      "item": "minecraft:enchanted_golden_apple",
+      "count": 1
+    },
+    {
+      "item": "minecraft:elytra",
+      "count": 1
+    },
+    {
+      "item": "minecraft:shulker_shell",
+      "count": 4
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "count": 1
+    },
+    {
+      "item": "minecraft:totem_of_undying",
+      "count": 1
+    },
+    {
+      "item": "minecraft:heart_of_the_sea",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "count": 2
+    },
+    {
+      "item": "minecraft:dragon_breath",
+      "count": 8
+    },
+    {
+      "item": "minecraft:beacon",
+      "count": 1
+    },
+    {
+      "item": "minecraft:netherite_block",
+      "count": 1
+    },
+    {
+      "item": "minecraft:dragon_head",
+      "count": 1
+    },
+    {
+      "item": "minecraft:elytra",
+      "count": 1
+    },
+    {
+      "item": "minecraft:nether_star",
+      "count": 4
+    }
+  ]
+}

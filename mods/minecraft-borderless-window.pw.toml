@@ -1,0 +1,13 @@
+name = "Minecraft Borderless Window"
+filename = "borderlesswindow-1.6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ijIwGkOr/versions/j4T3ryGv/borderlesswindow-1.6.0.jar"
+hash-format = "sha512"
+hash = "5a63f689794141c7e7124ad97f9901cf4b5c9bbdcd33c48126be06d2e9ecdaea27839e2dde9e030b26955a51fde1b0e7f7527a511b5433de0033ef22a9922d5f"
+
+[update]
+[update.modrinth]
+mod-id = "ijIwGkOr"
+version = "j4T3ryGv"

@@ -1,0 +1,57 @@
+{
+  "enabled": true,
+  "mod_name": "Apotheosis",
+  "mod_id": "apotheosis",
+  "achievements": {
+    "progression/frontier": {
+      "display_name": "Nivel de Mundo: Frontera",
+      "original_name": "Nivel de Mundo: Frontera",
+      "enabled": true,
+      "icon": "minecraft:iron_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "progression/ascent": {
+      "display_name": "Nivel de Mundo: Ascenso",
+      "original_name": "Nivel de Mundo: Ascenso",
+      "enabled": true,
+      "icon": "minecraft:blaze_powder",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "progression/pinnacle": {
+      "display_name": "Nivel de Mundo: Pináculo",
+      "original_name": "Nivel de Mundo: Pináculo",
+      "enabled": true,
+      "icon": "minecraft:end_crystal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "progression/summit": {
+      "display_name": "Nivel de Mundo: Cumbre",
+      "original_name": "Nivel de Mundo: Cumbre",
+      "enabled": true,
+      "icon": "minecraft:netherite_sword",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "progression/haven": {
+      "display_name": "Nivel de Mundo: Refugio",
+      "original_name": "Nivel de Mundo: Refugio",
+      "enabled": true,
+      "icon": "minecraft:oak_sapling",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+name = "JustEnoughMekanismMultiblocks-1.21.1-7.23.jar"
+filename = "JustEnoughMekanismMultiblocks-1.21.1-7.23.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9068/212/JustEnoughMekanismMultiblocks-1.21.1-7.23.jar"
+hash-format = "sha256"
+hash = "69ba91372eed3ad69cafcc6bd8e2afec85e2a009a13e4e4814c4f474812985d6"
+
+[update]
+[update.curseforge]
+file-id = 9068212
+project-id = 898746

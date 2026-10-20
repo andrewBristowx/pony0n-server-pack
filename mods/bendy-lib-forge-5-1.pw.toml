@@ -1,0 +1,8 @@
+name = "bendy-lib-forge-5.1.jar"
+filename = "bendy-lib-forge-5.1.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/andrewBristowx/pony0n-server-pack/main/localmods/bendy-lib-forge-5.1.jar"
+hash-format = "sha256"
+hash = "8b40dcaa9f464afe1e4c22e33074a646596d818060db40c27564ce4d2bfe33ea"

@@ -1,0 +1,127 @@
+{
+  "enabled": true,
+  "mod_name": "Bosses\u0027Rise",
+  "mod_id": "block_factorys_bosses",
+  "achievements": {
+    "kill_dragon": {
+      "display_name": "Dragon Slayer",
+      "original_name": "Dragon Slayer",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_kraken": {
+      "display_name": "Wraith of the Tide",
+      "original_name": "Wraith of the Tide",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_boss_under_minute": {
+      "display_name": "Overclocker",
+      "original_name": "Overclocker",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_yeti": {
+      "display_name": "Lost in the Snow",
+      "original_name": "Lost in the Snow",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_yeti": {
+      "display_name": "King of the Hill",
+      "original_name": "King of the Hill",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_dragon": {
+      "display_name": "Dragon Hunter",
+      "original_name": "Dragon Hunter",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_underworld_knight": {
+      "display_name": "Back Into Hell!",
+      "original_name": "Back Into Hell!",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_sandworm": {
+      "display_name": "Desert Power",
+      "original_name": "Desert Power",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_sandworm": {
+      "display_name": "The Beast Below",
+      "original_name": "The Beast Below",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_kraken": {
+      "display_name": "Terror of the Depths",
+      "original_name": "Terror of the Depths",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "no_hit_underworld_knight": {
+      "display_name": "Beyond Death",
+      "original_name": "Beyond Death",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "kill_all_bosses": {
+      "display_name": "Unbound",
+      "original_name": "Unbound",
+      "enabled": true,
+      "icon": "block_factorys_bosses:achievement_icons",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

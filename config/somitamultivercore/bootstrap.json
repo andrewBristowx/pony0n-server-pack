@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "lobby": {
+    "name": "spawn",
+    "structure": { "file": "structures/spawn.nbt", "x": -52, "y": 50, "z": -53 },
+    "spawn": { "x": -1.5, "y": 64, "z": 6.5, "yaw": -90 },
+    "properties": {
+      "build": "false",
+      "void-rescue-y": "40",
+      "pvp": "false",
+      "difficulty": "peaceful",
+      "keep-spawn-loaded": "true"
+    },
+    "gamerules": {
+      "doMobSpawning": "false",
+      "doDaylightCycle": "false",
+      "doWeatherCycle": "false",
+      "mobGriefing": "false",
+      "doFireTick": "false"
+    },
+    "border": { "size": 104, "centerX": 0, "centerZ": 0 },
+    "dayTime": 6000,
+    "joinMode": "always"
+  },
+  "realms": [
+    {
+      "name": "survival",
+      "borderSize": 10000
+    },
+    {
+      "name": "recursos",
+      "borderSize": 10000,
+      "weeklyReset": { "day": "monday", "time": "04:00", "zone": "America/Mexico_City" }
+    }
+  ],
+  "npc": {
+    "id": "reinos",
+    "world": "spawn",
+    "x": 4.5, "y": 64, "z": 6.5, "yaw": 90,
+    "title": "&6&lElige tu reino",
+    "menuTitle": "Elige tu reino",
+    "rows": 3,
+    "entries": [
+      { "slot": 11, "item": "minecraft:grass_block", "name": "&a&lSurvival",
+        "lore": ["&7Tu mundo permanente.", "&7Overworld, Nether y End conectados."], "world": "survival" },
+      { "slot": 15, "item": "minecraft:diamond_pickaxe", "name": "&b&lRecursos",
+        "lore": ["&7Para conseguir materiales.", "&eSe reinicia cada semana."], "world": "recursos" }
+    ]
+  }
+}

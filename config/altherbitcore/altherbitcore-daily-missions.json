@@ -1,0 +1,54 @@
+{
+  "missions": [
+    {
+      "requiredCount": 16,
+      "reward": {
+        "id": "minecraft:iron_ingot",
+        "count": 4
+      },
+      "itemId": "minecraft:cobblestone",
+      "descEn": "Deliver 16 cobblestone",
+      "descEs": "Entrega 16 piedras",
+      "descJp": "丸石を16個納品せよ",
+      "type": "deliver"
+    },
+    {
+      "requiredCount": 8,
+      "reward": {
+        "id": "minecraft:golden_apple",
+        "count": 1
+      },
+      "itemId": "minecraft:bread",
+      "descEn": "Deliver 8 bread",
+      "descEs": "Entrega 8 panes",
+      "descJp": "パンを8個納品せよ",
+      "type": "deliver"
+    },
+    {
+      "reward": {
+        "id": "minecraft:emerald",
+        "count": 4
+      },
+      "mobId": "minecraft:zombie",
+      "displayItemId": "minecraft:zombie_head",
+      "descEn": "Kill 10 zombies",
+      "descEs": "Mata 10 zombies",
+      "descJp": "ゾンビを10体倒せ",
+      "requiredCount": 10,
+      "type": "kill"
+    },
+    {
+      "reward": {
+        "id": "minecraft:diamond",
+        "count": 1
+      },
+      "mobId": "minecraft:skeleton",
+      "displayItemId": "minecraft:skeleton_skull",
+      "descEn": "Kill 5 skeletons",
+      "descEs": "Mata 5 esqueletos",
+      "descJp": "スケルトンを5体倒せ",
+      "requiredCount": 5,
+      "type": "kill"
+    }
+  ]
+}

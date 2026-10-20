@@ -1,0 +1,287 @@
+{
+  "enabled": true,
+  "mod_name": "Quark",
+  "mod_id": "quark",
+  "achievements": {
+    "content/get_all_corundum": {
+      "display_name": "Corundum Conundrum",
+      "original_name": "Corundum Conundrum",
+      "enabled": true,
+      "icon": "quark:blue_corundum_cluster",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/shiba_help": {
+      "display_name": "Paint The Town",
+      "original_name": "Paint The Town",
+      "enabled": true,
+      "icon": "minecraft:torch",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/wear_full_rainbow": {
+      "display_name": "Taste the Rainbow",
+      "original_name": "Taste the Rainbow",
+      "enabled": true,
+      "icon": "quark:smithing_template_rune",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/ancient_apple_overlevel": {
+      "display_name": "Bit Fruity",
+      "original_name": "Bit Fruity",
+      "enabled": true,
+      "icon": "quark:ancient_fruit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/foxhound_speed_up_furnace": {
+      "display_name": "Let Flaming Dogs Lie",
+      "original_name": "Let Flaming Dogs Lie",
+      "enabled": true,
+      "icon": "minecraft:furnace",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/get_diamond_heart": {
+      "display_name": "Shape of My Heart",
+      "original_name": "Shape of My Heart",
+      "enabled": true,
+      "icon": "quark:diamond_heart",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/apply_color_rune": {
+      "display_name": "Glorious Eminence",
+      "original_name": "Glorious Eminence",
+      "enabled": true,
+      "icon": "quark:smithing_template_rune",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/use_viaduct": {
+      "display_name": "Chase Me",
+      "original_name": "Chase Me",
+      "enabled": true,
+      "icon": "quark:myalite_crystal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/make_stoneling": {
+      "display_name": "Young Dreamer",
+      "original_name": "Young Dreamer",
+      "enabled": true,
+      "icon": "quark:diamond_heart",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/mine_fed_toretoise": {
+      "display_name": "We\u0027re Rich!",
+      "original_name": "We\u0027re Rich!",
+      "enabled": true,
+      "icon": "minecraft:glow_berries",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/redirect_beacon": {
+      "display_name": "See The Lights",
+      "original_name": "See The Lights",
+      "enabled": true,
+      "icon": "minecraft:beacon",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/pathfinder_map_center": {
+      "display_name": "Road to Tomorrow",
+      "original_name": "Road to Tomorrow",
+      "enabled": true,
+      "icon": "minecraft:filled_map",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/instamine_deepslate": {
+      "display_name": "Instant Limit Breaker",
+      "original_name": "Instant Limit Breaker",
+      "enabled": true,
+      "icon": "minecraft:deepslate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/crab_in_a_bucket": {
+      "display_name": "Crabtured",
+      "original_name": "Crabtured",
+      "enabled": true,
+      "icon": "quark:crab_bucket",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/get_all_blossom_saplings": {
+      "display_name": "Blossoming",
+      "original_name": "Blossoming",
+      "enabled": true,
+      "icon": "quark:red_blossom_sapling",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/get_bottled_cloud": {
+      "display_name": "Cloud Storage",
+      "original_name": "Cloud Storage",
+      "enabled": true,
+      "icon": "quark:bottled_cloud",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/poison_baby": {
+      "display_name": "Forever Young",
+      "original_name": "Forever Young",
+      "enabled": true,
+      "icon": "minecraft:poisonous_potato",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/retreive_flamerang": {
+      "display_name": "Fly to the Sky, Fire Bird",
+      "original_name": "Fly to the Sky, Fire Bird",
+      "enabled": true,
+      "icon": "quark:flamerang",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/mine_toretoise": {
+      "display_name": "Mine Turtle!",
+      "original_name": "Mine Turtle!",
+      "enabled": true,
+      "icon": "minecraft:diamond_pickaxe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/get_own_head": {
+      "display_name": "Getting Ahead",
+      "original_name": "Getting Ahead",
+      "enabled": true,
+      "icon": "minecraft:player_head",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/throw_pickarang": {
+      "display_name": "Somehow, Pickarang Returned",
+      "original_name": "Somehow, Pickarang Returned",
+      "enabled": true,
+      "icon": "quark:pickarang",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/tame_foxhound": {
+      "display_name": "Playing With Fire",
+      "original_name": "Playing With Fire",
+      "enabled": true,
+      "icon": "minecraft:coal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/throw_parrot_egg": {
+      "display_name": "Just the Parrots",
+      "original_name": "Just the Parrots",
+      "enabled": true,
+      "icon": "quark:egg_parrot_red_blue",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/get_forgotten_hat": {
+      "display_name": "This Belongs in a Museum",
+      "original_name": "This Belongs in a Museum",
+      "enabled": true,
+      "icon": "quark:forgotten_hat",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/overlevel_enchant": {
+      "display_name": "Limit Breaker",
+      "original_name": "Limit Breaker",
+      "enabled": true,
+      "icon": "quark:ancient_tome",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/watcher_center": {
+      "display_name": "Who Watches the Watcher?",
+      "original_name": "Who Watches the Watcher?",
+      "enabled": true,
+      "icon": "quark:ender_watcher",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/tatami_gaeshi": {
+      "display_name": "TATAMI GAESHI!",
+      "original_name": "TATAMI GAESHI!",
+      "enabled": true,
+      "icon": "quark:bamboo_mat_carpet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "content/crawl_in_hollow_log": {
+      "display_name": "Crawling in my Bark",
+      "original_name": "Crawling in my Bark",
+      "enabled": true,
+      "icon": "quark:hollow_oak_log",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

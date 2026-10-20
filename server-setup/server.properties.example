@@ -1,0 +1,12 @@
+# Propiedades recomendadas para este pack (se copian solo si no existe server.properties).
+motd=Pony0n Server
+online-mode=true
+level-name=world
+spawn-protection=0
+max-tick-time=-1
+allow-flight=true
+view-distance=8
+simulation-distance=6
+sync-chunk-writes=false
+enable-command-block=true
+max-players=20

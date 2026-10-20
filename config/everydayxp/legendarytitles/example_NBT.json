@@ -1,0 +1,88 @@
+{
+  "mod_name": "Minecraft",
+  "mod_id": "minecraft",
+  "enabled": false,
+  "achievements": {
+    "nether/find_fortress": {
+      "display_name": "A Terrible Fortress",
+      "original_name": "A Terrible Fortress",
+      "enabled": true,
+      "icon": "minecraft:nether_bricks",
+      "rewards": {
+        "attributes": {},
+        "items": [
+          {
+            "item": "minecraft:potion",
+            "count": 1,
+            "nbt": "{Potion:\"minecraft:fire_resistance\"}"
+          },
+          {
+            "item": "minecraft:blaze_rod",
+            "count": 4
+          }
+        ]
+      }
+    },
+    "story/enter_the_end": {
+      "display_name": "The End?",
+      "original_name": "The End?",
+      "enabled": true,
+      "icon": "minecraft:end_stone",
+      "rewards": {
+        "attributes": {},
+        "items": [
+          {
+            "item": "minecraft:ender_pearl",
+            "count": 8
+          },
+          {
+            "item": "minecraft:potion",
+            "count": 1,
+            "nbt": "{Potion:\"minecraft:slow_falling\"}"
+          }
+        ]
+      }
+    },
+    "adventure/arbalistic": {
+      "display_name": "Arbalistic",
+      "original_name": "Arbalistic",
+      "enabled": true,
+      "icon": "minecraft:crossbow",
+      "rewards": {
+        "attributes": {},
+        "items": [
+          {
+            "item": "minecraft:crossbow",
+            "count": 1,
+            "nbt": "{Enchantments:[{id:\"minecraft:piercing\",lvl:4s},{id:\"minecraft:quick_charge\",lvl:3s}]}"
+          }
+        ]
+      }
+    },
+    "nether/summon_wither": {
+      "display_name": "Withering Heights",
+      "original_name": "Withering Heights",
+      "enabled": true,
+      "icon": "minecraft:nether_star",
+      "rewards": {
+        "attributes": {},
+        "items": [
+          {
+            "item": "minecraft:diamond_sword",
+            "count": 1,
+            "nbt": "{display:{Name:'{\"text\":\"Excalibur\",\"italic\":false}'},Enchantments:[{id:\"minecraft:sharpness\",lvl:4s},{id:\"minecraft:unbreaking\",lvl:3s}]}"
+          },
+          {
+            "item": "minecraft:golden_apple",
+            "count": 4
+          },
+          {
+            "item": "minecraft:potion",
+            "count": 1,
+            "nbt": "{Potion:\"minecraft:strength\"}"
+          }
+        ]
+      }
+    }
+  }
+}

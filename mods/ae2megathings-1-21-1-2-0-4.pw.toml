@@ -1,0 +1,13 @@
+name = "AE2MEGAThings-1.21.1-2.0.4.jar"
+filename = "AE2MEGAThings-1.21.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/6203/833/AE2MEGAThings-1.21.1-2.0.4.jar"
+hash-format = "sha256"
+hash = "97537207b4c68a417a15b5a029f82e55510e0fcaa22be3c97b199bf2c7c5f7b9"
+
+[update]
+[update.curseforge]
+file-id = 6203833
+project-id = 1150075

@@ -1,0 +1,13 @@
+name = "iceandfire-2.1.4.jar"
+filename = "iceandfire-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9128/508/iceandfire-2.1.4.jar"
+hash-format = "sha256"
+hash = "c1fa9878d4a0f81fe6b2db69184958f6a802f8bc7c1cd34fec2b0dc03222ec0b"
+
+[update]
+[update.curseforge]
+file-id = 9128508
+project-id = 1040076

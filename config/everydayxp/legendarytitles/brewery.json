@@ -1,0 +1,77 @@
+{
+  "enabled": true,
+  "mod_name": "[Let\u0027s Do] Brewery",
+  "mod_id": "brewery",
+  "achievements": {
+    "main/netherite_brewmaster": {
+      "display_name": "Cervecero de Netherita",
+      "original_name": "Cervecero de Netherita",
+      "enabled": true,
+      "icon": "brewery:netherite_brewingstation",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/wild_crops": {
+      "display_name": "Cultivos Salvajes",
+      "original_name": "Cultivos Salvajes",
+      "enabled": true,
+      "icon": "brewery:hops",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/kill_beer_elemental": {
+      "display_name": "Vencedor del Enemigo Espumoso",
+      "original_name": "Vencedor del Enemigo Espumoso",
+      "enabled": true,
+      "icon": "brewery:beer_elemental_spawn_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/eat_everything": {
+      "display_name": "Buffet de Oktoberfest",
+      "original_name": "Buffet de Oktoberfest",
+      "enabled": true,
+      "icon": "brewery:half_chicken",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/copper_brewmaster": {
+      "display_name": "Maestro Cervecero de Cobre",
+      "original_name": "Maestro Cervecero de Cobre",
+      "enabled": true,
+      "icon": "brewery:copper_brewingstation",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/brewing_pioneer": {
+      "display_name": "Pionero de la Elaboración",
+      "original_name": "Pionero de la Elaboración",
+      "enabled": true,
+      "icon": "brewery:wooden_brewingstation",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "main/crop_collector": {
+      "display_name": "Coleccionista de Cultivos",
+      "original_name": "Coleccionista de Cultivos",
+      "enabled": true,
+      "icon": "farm_and_charm:barley",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "enabled": true,
+  "mod_name": "Corn Delight",
+  "mod_id": "corn_delight",
+  "achievements": {
+    "stuffing_chef": {
+      "display_name": "Stuffing Chef",
+      "original_name": "Stuffing Chef",
+      "enabled": true,
+      "icon": "corn_delight:cornbread_stuffing",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "corn_knowleage": {
+      "display_name": "Master Corn Knowledge",
+      "original_name": "Master Corn Knowledge",
+      "enabled": true,
+      "icon": "corn_delight:corn_crate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "nachos": {
+      "display_name": "#nachocrime",
+      "original_name": "#nachocrime",
+      "enabled": true,
+      "icon": "corn_delight:nachos_bowl",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "popcorn_party": {
+      "display_name": "Popcorn Party Time",
+      "original_name": "Popcorn Party Time",
+      "enabled": true,
+      "icon": "corn_delight:popcorn_box",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "macarthur": {
+      "display_name": "General of the Maize",
+      "original_name": "General of the Maize",
+      "enabled": true,
+      "icon": "corn_delight:cob_pipe",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "enabled": true,
+  "mod_name": "Dungeons Arise",
+  "mod_id": "dungeons_arise",
+  "achievements": {
+    "find_aviary": {
+      "display_name": "The Aviary",
+      "original_name": "The Aviary",
+      "enabled": true,
+      "icon": "minecraft:clock",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_typhon": {
+      "display_name": "Typhon",
+      "original_name": "Typhon",
+      "enabled": true,
+      "icon": "minecraft:fire_coral",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_heavenly_challenger": {
+      "display_name": "The Heavenly Challenger",
+      "original_name": "The Heavenly Challenger",
+      "enabled": true,
+      "icon": "minecraft:netherite_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_plague_asylum": {
+      "display_name": "The Plague Asylum",
+      "original_name": "The Plague Asylum",
+      "enabled": true,
+      "icon": "minecraft:sculk_sensor",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_thornborn_towers": {
+      "display_name": "Thornborn Towers",
+      "original_name": "Thornborn Towers",
+      "enabled": true,
+      "icon": "minecraft:rose_bush",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_keep_kayra": {
+      "display_name": "Keep Kayra",
+      "original_name": "Keep Kayra",
+      "enabled": true,
+      "icon": "minecraft:lily_pad",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_kisegi_sanctuary": {
+      "display_name": "The Kisegi Sanctuary",
+      "original_name": "The Kisegi Sanctuary",
+      "enabled": true,
+      "icon": "minecraft:trial_key",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_heavenly_rider": {
+      "display_name": "The Heavenly Rider",
+      "original_name": "The Heavenly Rider",
+      "enabled": true,
+      "icon": "minecraft:golden_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_infested_temple": {
+      "display_name": "The Infested Temple",
+      "original_name": "The Infested Temple",
+      "enabled": true,
+      "icon": "minecraft:trial_key",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_lighthouse": {
+      "display_name": "The Lighthouse",
+      "original_name": "The Lighthouse",
+      "enabled": true,
+      "icon": "minecraft:lantern",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_mechanical_nest": {
+      "display_name": "Mechanical Nest",
+      "original_name": "Mechanical Nest",
+      "enabled": true,
+      "icon": "create:goggles",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_bandit_village": {
+      "display_name": "Bandit Village",
+      "original_name": "Bandit Village",
+      "enabled": true,
+      "icon": "supplementaries:fire_pit",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_illager_campsite": {
+      "display_name": "Illager Campsite",
+      "original_name": "Illager Campsite",
+      "enabled": true,
+      "icon": "minecraft:crossbow",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_bandit_towers": {
+      "display_name": "Bandit Towers",
+      "original_name": "Bandit Towers",
+      "enabled": true,
+      "icon": "minecraft:ominous_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_foundry": {
+      "display_name": "The Foundry",
+      "original_name": "The Foundry",
+      "enabled": true,
+      "icon": "minecraft:netherite_ingot",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_heavenly_conqueror": {
+      "display_name": "The Heavenly Conqueror",
+      "original_name": "The Heavenly Conqueror",
+      "enabled": true,
+      "icon": "minecraft:diamond_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_greenwood_pub": {
+      "display_name": "The Greenwood Pub",
+      "original_name": "The Greenwood Pub",
+      "enabled": true,
+      "icon": "create:builders_tea",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_desert_hall": {
+      "display_name": "The Desert Hall",
+      "original_name": "The Desert Hall",
+      "enabled": true,
+      "icon": "minecraft:chiseled_sandstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_mining_complex": {
+      "display_name": "Mining Complex",
+      "original_name": "Mining Complex",
+      "enabled": true,
+      "icon": "minecraft:glow_berries",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_merchant_campsite": {
+      "display_name": "Merchant Campsite",
+      "original_name": "Merchant Campsite",
+      "enabled": true,
+      "icon": "minecraft:emerald",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_ceryneian_hind": {
+      "display_name": "Ceryneian Hind",
+      "original_name": "Ceryneian Hind",
+      "enabled": true,
+      "icon": "minecraft:bone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "find_scorched_mines": {
+      "display_name": "Scorched Mines",
+      "original_name": "Scorched Mines",
+      "enabled": true,
+      "icon": "minecraft:glowstone_dust",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_comment": "Datos sensibles (API keys + service principal de Azure Monitor). NO se sube a git.",
+  "azureKey": "",
+  "azureRegion": "",
+  "azureEndpoint": "https://api.cognitive.microsofttranslator.com",
+  "googleKey": "",
+  "azureTenantId": "",
+  "azureClientId": "",
+  "azureClientSecret": "",
+  "azureResourceId": "",
+  "azureMonthlyCharCap": 2000000
+}

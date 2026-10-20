@@ -1,0 +1,13 @@
+name = "illagerstructures-neoforge-1.21.1-0.1.3.jar"
+filename = "illagerstructures-neoforge-1.21.1-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9019/750/illagerstructures-neoforge-1.21.1-0.1.3.jar"
+hash-format = "sha256"
+hash = "ca96bad3d82baa8d81a577750b513c93044e56e049e509756b5a7c1758085347"
+
+[update]
+[update.curseforge]
+file-id = 9019750
+project-id = 1533966

@@ -1,0 +1,13 @@
+name = "forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar"
+filename = "forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9195/559/forgified-fabric-api-0.116.15%2B2.3.6%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "8504d7ceedb7b537ab4b028c17a673e6d428298cc7fc6c330ba843b128361a8c"
+
+[update]
+[update.curseforge]
+file-id = 9195559
+project-id = 889079

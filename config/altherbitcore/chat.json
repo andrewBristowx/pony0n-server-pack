@@ -1,0 +1,19 @@
+{
+  "defaultStyle": {
+    "displayName": "Default",
+    "require": "",
+    "priority": 0,
+    "formats": {
+      "chat": "%onlyrank% \u0026f%player%\u00267: \u0026f%message%",
+      "join": "\u00268[\u0026a+\u00268] \u00267%player%",
+      "join_first": "\u00268[\u0026a+\u00268] \u00267%player% \u00268(\u0026b¡nuevo!\u00268)",
+      "left": "\u00268[\u0026c-\u00268] \u00267%player%",
+      "death": "\u00267☠ %message%",
+      "pet_death": "\u00267%message%",
+      "advancement": "\u00267%message%",
+      "pm_sent": "\u00268(\u00267tú \u00268→ \u00267%target%\u00268) \u0026f%message%",
+      "pm_received": "\u00268(\u00267%player% \u00268→ \u00267tú\u00268) \u0026f%message%"
+    }
+  },
+  "permissionStyles": []
+}

@@ -1,0 +1,76 @@
+{
+  "menus": [
+    {
+      "id": "default",
+      "name": "Default",
+      "slots": [
+        {
+          "id": "default_survival",
+          "label": "Supervivencia",
+          "itemIcon": "minecraft:iron_sword",
+          "action": {
+            "type": "COMMAND",
+            "command": "gamemode survival",
+            "delayTicks": 0,
+            "cycleCommands": false
+          }
+        },
+        {
+          "id": "default_creative",
+          "label": "Creativo",
+          "itemIcon": "minecraft:nether_star",
+          "action": {
+            "type": "COMMAND",
+            "command": "gamemode creative",
+            "delayTicks": 0,
+            "cycleCommands": false
+          }
+        },
+        {
+          "id": "default_spectator",
+          "label": "Espectador",
+          "itemIcon": "minecraft:ender_eye",
+          "action": {
+            "type": "COMMAND",
+            "command": "gamemode spectator",
+            "delayTicks": 0,
+            "cycleCommands": false
+          }
+        },
+        {
+          "id": "default_afk",
+          "label": "AFK",
+          "itemIcon": "minecraft:clock",
+          "action": {
+            "type": "COMMAND",
+            "command": "afk",
+            "delayTicks": 0,
+            "cycleCommands": false
+          }
+        },
+        {
+          "id": "default_spawn",
+          "label": "Spawn",
+          "itemIcon": "minecraft:compass",
+          "action": {
+            "type": "COMMAND",
+            "command": "spawn",
+            "delayTicks": 0,
+            "cycleCommands": false
+          }
+        },
+        {
+          "id": "default_test",
+          "label": "Test Radial",
+          "itemIcon": "minecraft:paper",
+          "action": {
+            "type": "COMMAND",
+            "command": "say [Altherbit] Radial activo",
+            "delayTicks": 0,
+            "cycleCommands": false
+          }
+        }
+      ]
+    }
+  ]
+}

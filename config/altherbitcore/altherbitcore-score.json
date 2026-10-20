@@ -1,0 +1,8 @@
+{
+  "Enabled": true,
+  "HideZero": false,
+  "PerPlayerEnabled": true,
+  "PerIdEnabled": true,
+  "PerPlayerSymbol": "$",
+  "PerPlayerColor": ""
+}

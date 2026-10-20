@@ -1,0 +1,13 @@
+name = "sophisticatedcore-1.21.1-1.5.16.2422.jar"
+filename = "sophisticatedcore-1.21.1-1.5.16.2422.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/9261/203/sophisticatedcore-1.21.1-1.5.16.2422.jar"
+hash-format = "sha256"
+hash = "67e35ed90ea50298fc779b944a0716ef6f0a2b28b11151eb942331d5a154ba2d"
+
+[update]
+[update.curseforge]
+file-id = 9261203
+project-id = 618298

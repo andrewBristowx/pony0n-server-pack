@@ -1,0 +1,13 @@
+name = "AllTheEnchants 2.8 (neoforge-1.21.1).jar"
+filename = "AllTheEnchants 2.8 (neoforge-1.21.1).jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8764/583/AllTheEnchants%202.8%20%28neoforge-1.21.1%29.jar"
+hash-format = "sha256"
+hash = "49d8b8e3238b3f01e052269b04ff81abff5d82ffe2fb57920d24f75fee563231"
+
+[update]
+[update.curseforge]
+file-id = 8764583
+project-id = 1102164

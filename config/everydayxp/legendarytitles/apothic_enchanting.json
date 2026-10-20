@@ -1,0 +1,237 @@
+{
+  "enabled": true,
+  "mod_name": "Apothic Enchanting",
+  "mod_id": "apothic_enchanting",
+  "achievements": {
+    "30ench": {
+      "display_name": "The Basics",
+      "original_name": "The Basics",
+      "enabled": true,
+      "icon": "minecraft:enchanted_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "deepshelf": {
+      "display_name": "Delving Into Darkness",
+      "original_name": "Delving Into Darkness",
+      "enabled": true,
+      "icon": "apothic_enchanting:dormant_deepshelf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quanta100": {
+      "display_name": "Rolling the Dice",
+      "original_name": "Rolling the Dice",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "upgrade_seashelf": {
+      "display_name": "Sleeping in the Cold Below",
+      "original_name": "Sleeping in the Cold Below",
+      "enabled": true,
+      "icon": "apothic_enchanting:heart_seashelf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "sculkshelf": {
+      "display_name": "Embracing the Sculk",
+      "original_name": "Embracing the Sculk",
+      "enabled": true,
+      "icon": "apothic_enchanting:echoing_sculkshelf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "seashelf": {
+      "display_name": "The Purity of the Seas",
+      "original_name": "The Purity of the Seas",
+      "enabled": true,
+      "icon": "apothic_enchanting:seashelf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hellshelf": {
+      "display_name": "The Chaos of Hell",
+      "original_name": "The Chaos of Hell",
+      "enabled": true,
+      "icon": "apothic_enchanting:hellshelf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quanta50": {
+      "display_name": "Introduction to Chaos",
+      "original_name": "Introduction to Chaos",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "max_stats": {
+      "display_name": "Maximum Strength",
+      "original_name": "Maximum Strength",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enchanting_stats": {
+      "display_name": "Eterna, Quanta, Arcana",
+      "original_name": "Eterna, Quanta, Arcana",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "max_rectified": {
+      "display_name": "Only the Best",
+      "original_name": "Only the Best",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "endshelf": {
+      "display_name": "Dragon-Slaying Enchanter",
+      "original_name": "Dragon-Slaying Enchanter",
+      "enabled": true,
+      "icon": "apothic_enchanting:endshelf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bookshelf": {
+      "display_name": "Local Librarian",
+      "original_name": "Local Librarian",
+      "enabled": true,
+      "icon": "minecraft:bookshelf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "60ench": {
+      "display_name": "Mastering Hell and Sea",
+      "original_name": "Mastering Hell and Sea",
+      "enabled": true,
+      "icon": "minecraft:enchanted_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "100ench": {
+      "display_name": "Draconic Enchanting",
+      "original_name": "Draconic Enchanting",
+      "enabled": true,
+      "icon": "minecraft:enchanted_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "max_stable": {
+      "display_name": "Stable Power",
+      "original_name": "Stable Power",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "arcana50": {
+      "display_name": "Magical Energy",
+      "original_name": "Magical Energy",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "quanta0": {
+      "display_name": "Begone, Flux",
+      "original_name": "Begone, Flux",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "arcana100": {
+      "display_name": "Arcane Power",
+      "original_name": "Arcane Power",
+      "enabled": true,
+      "icon": "minecraft:experience_bottle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enchanter": {
+      "display_name": "The Secrets of Enchanting",
+      "original_name": "The Secrets of Enchanting",
+      "enabled": true,
+      "icon": "minecraft:enchanting_table",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "upgrade_hellshelf": {
+      "display_name": "Mastering the Inferno",
+      "original_name": "Mastering the Inferno",
+      "enabled": true,
+      "icon": "apothic_enchanting:blazing_hellshelf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "80ench": {
+      "display_name": "Enchantments from the Depths",
+      "original_name": "Enchantments from the Depths",
+      "enabled": true,
+      "icon": "minecraft:enchanted_book",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "upgrade_endshelf": {
+      "display_name": "The Final Bookshelf",
+      "original_name": "The Final Bookshelf",
+      "enabled": true,
+      "icon": "apothic_enchanting:draconic_endshelf",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}

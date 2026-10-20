@@ -1,0 +1,297 @@
+{
+  "enabled": true,
+  "mod_name": "The Aether",
+  "mod_id": "aether",
+  "achievements": {
+    "craft_altar": {
+      "display_name": "¿Crees en la magia?",
+      "original_name": "¿Crees en la magia?",
+      "enabled": true,
+      "icon": "aether:altar",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "mount_phyg": {
+      "display_name": "Cuando los Cerdasos vuelan",
+      "original_name": "Cuando los Cerdasos vuelan",
+      "enabled": true,
+      "icon": "minecraft:saddle",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "zanite": {
+      "display_name": "Hardware exótico",
+      "original_name": "Hardware exótico",
+      "enabled": true,
+      "icon": "aether:zanite_gemstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "aether_sleep": {
+      "display_name": "Un merecido descanso",
+      "original_name": "Un merecido descanso",
+      "enabled": true,
+      "icon": "aether:skyroot_bed",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "lance_loot": {
+      "display_name": "Retador al Trono",
+      "original_name": "Retador al Trono",
+      "enabled": true,
+      "icon": "aether:valkyrie_lance",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enter_aether": {
+      "display_name": "Paraíso hostil",
+      "original_name": "Paraíso hostil",
+      "enabled": true,
+      "icon": "minecraft:glowstone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "enchanted_gravitite": {
+      "display_name": "El rosa es el nuevo azul",
+      "original_name": "El rosa es el nuevo azul",
+      "enabled": true,
+      "icon": "aether:enchanted_gravitite",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "blue_aercloud": {
+      "display_name": "¡Hasta el infinito y más allá!",
+      "original_name": "¡Hasta el infinito y más allá!",
+      "enabled": true,
+      "icon": "aether:blue_aercloud",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_egg": {
+      "display_name": "No cuentes tus Moas...",
+      "original_name": "No cuentes tus Moas...",
+      "enabled": true,
+      "icon": "aether:blue_moa_egg",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "icestone": {
+      "display_name": "Frío como el hielo",
+      "original_name": "Frío como el hielo",
+      "enabled": true,
+      "icon": "aether:icestone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "gold_dungeon": {
+      "display_name": "Extinguido",
+      "original_name": "Extinguido",
+      "enabled": true,
+      "icon": "aether:gold_dungeon_key",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "black_moa": {
+      "display_name": "¡Vamos a volar!",
+      "original_name": "¡Vamos a volar!",
+      "enabled": true,
+      "icon": "minecraft:feather",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obsidian_armor": {
+      "display_name": "Armadura de cubo de hielo",
+      "original_name": "Armadura de cubo de hielo",
+      "enabled": true,
+      "icon": "aether:obsidian_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "regen_stone": {
+      "display_name": "Batalla endurecida",
+      "original_name": "Batalla endurecida",
+      "enabled": true,
+      "icon": "aether:regeneration_stone",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "ice_accessory": {
+      "display_name": "¡Joyas geniales!",
+      "original_name": "¡Joyas geniales!",
+      "enabled": true,
+      "icon": "aether:ice_pendant",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "gravitite_armor": {
+      "display_name": "Desafiando la gravedad",
+      "original_name": "Desafiando la gravedad",
+      "enabled": true,
+      "icon": "aether:gravitite_chestplate",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "phoenix_armor": {
+      "display_name": "A prueba de fuego",
+      "original_name": "A prueba de fuego",
+      "enabled": true,
+      "icon": "aether:phoenix_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "silver_dungeon": {
+      "display_name": "Destronado",
+      "original_name": "Destronado",
+      "enabled": true,
+      "icon": "aether:silver_dungeon_key",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "bronze_dungeon": {
+      "display_name": "¡Como un Bossaru!",
+      "original_name": "¡Como un Bossaru!",
+      "enabled": true,
+      "icon": "aether:bronze_dungeon_key",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "valkyrie_loot": {
+      "display_name": "Obteniendo tus alas",
+      "original_name": "Obteniendo tus alas",
+      "enabled": true,
+      "icon": "aether:valkyrie_helmet",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "loreception": {
+      "display_name": "¡Lore-Ception!",
+      "original_name": "¡Lore-Ception!",
+      "enabled": true,
+      "icon": "aether:book_of_lore",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "incubate_moa": {
+      "display_name": "... ¡Hasta que nazcan!",
+      "original_name": "... ¡Hasta que nazcan!",
+      "enabled": true,
+      "icon": "aether:incubator",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "hammer_loot": {
+      "display_name": "El poder de los dioses",
+      "original_name": "El poder de los dioses",
+      "enabled": true,
+      "icon": "aether:hammer_of_kingbdogz",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "prevent_aechor_petal_spawning": {
+      "display_name": "Tending The Garden",
+      "original_name": "Tending The Garden",
+      "enabled": true,
+      "icon": "aether:purple_flower",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "zephyr_hammer": {
+      "display_name": "Martillo de prohibición definitivo",
+      "original_name": "Martillo de prohibición definitivo",
+      "enabled": true,
+      "icon": "minecraft:snowball",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "read_lore": {
+      "display_name": "¡Cuanto más sepas!",
+      "original_name": "¡Cuanto más sepas!",
+      "enabled": true,
+      "icon": "aether:book_of_lore",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "valkyrie_hoe": {
+      "display_name": "El remordimiento del saqueador",
+      "original_name": "El remordimiento del saqueador",
+      "enabled": true,
+      "icon": "aether:aether_farmland",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "obtain_petal": {
+      "display_name": "Comida para bebés",
+      "original_name": "Comida para bebés",
+      "enabled": true,
+      "icon": "aether:aechor_petal",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    },
+    "prevent_swet_spawning": {
+      "display_name": "Get Off My Lawn!",
+      "original_name": "Get Off My Lawn!",
+      "enabled": true,
+      "icon": "minecraft:black_banner",
+      "rewards": {
+        "attributes": {},
+        "items": []
+      }
+    }
+  }
+}
