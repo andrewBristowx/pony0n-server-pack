@@ -30,19 +30,19 @@ Notas: `options.txt` y los shaders se instalan una vez; tus cambios de opciones 
 
 ## Servidor
 
-Requisitos: **Java 21**, `curl`, 8 GB de RAM libres para el servidor (y 15+ GB de disco).
+Requisitos: **Java 21**, `curl`, 8 GB de RAM libres para el servidor y ~15 GB de disco.
 
 ```bash
 mkdir mi-servidor && cd mi-servidor
-# copia aquí la carpeta server-setup/ de este repositorio (install-server.sh, start.sh, server.properties.example) y:
-./install-server.sh https://raw.githubusercontent.com/andrewBristowx/pony0n-server-pack/main/pack.toml      # instala NeoForge, descarga mods/configs del pack (solo lado servidor) y guarda la URL
-./start.sh                            # arranca; MEM=10G ./start.sh para cambiar la memoria
+# copia aquí el contenido de la carpeta server-setup/ de este repositorio (start.sh, start.bat, server.properties.example)
+./start.sh          # TODO en uno: instala NeoForge, descarga mods y configuración, pide el EULA y arranca
 ```
 
-Windows: `install-server.bat https://raw.githubusercontent.com/andrewBristowx/pony0n-server-pack/main/pack.toml` y `start.bat`.
+Windows: `start.bat`. Opciones: `MEM=10G ./start.sh` (memoria), `EULA=true ./start.sh` (aceptar el EULA sin preguntar),
+`AUTO_UPDATE=0 ./start.sh` (arrancar sin actualizar), `INSTALL_ONLY=1 ./start.sh` (instalar y salir).
 
-**Actualización automática**: `start.sh` ejecuta el instalador antes de arrancar, así que basta con reiniciar el servidor para recibir los
-cambios del pack (`AUTO_UPDATE=0 ./start.sh` para arrancar sin actualizar).
+**Actualización automática**: cada vez que ejecutas `start.sh` se sincroniza antes con el pack, así que basta con reiniciar el
+servidor para recibir los cambios que subamos al repositorio. La primera vez tarda unos minutos (descarga ~1 GB).
 
 Propiedades recomendadas en `server.properties.example` (`allow-flight=true` es necesario por Create/Sable; `online-mode=true` para que los
 jugadores vean su skin en el NPC).
